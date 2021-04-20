@@ -125,165 +125,7 @@
               </div>
           </div>
 
-          <div class="item">
-              <div class="each-slider-2 flex-center" style="background-image: url('frontend/assets/img/banner/banner-h3-7.jpg');" data-overlay="4">\
-              </div>
-              <div class="banner-text">
-                  <div class="container">
-                      <div class="row">
-                          <div class="col-lg-12 text-center">
-                              <div class="banner-content-3 white z-10"> <span class="frame-top"></span>
-                                  <span class="frame-bottom"></span>
-                                  <div class="main-banner-texts">
-                                      <h1 class="f-700">{{ trans('main.txt1111111') }}   <span class="yellow">{{ trans('main.txt2222222') }}</span> <span class="blk-spn">{{ trans('main.txt3333333') }} </span></h1>
-                                      <p class="fs-15">{{ trans('main.txt4444444') }}</p> <a href="/contact" class="btn btn-border-out z-5">{{ trans('main.banner_button1') }}</a>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-              </div>
-          </div>
 
-          <div class="item">
-              <div class="each-slider-2 flex-center" style="background-image: url('frontend/assets/img/banner/banner-h3-8.jpg');" data-overlay="4">\
-              </div>
-              <div class="banner-text">
-                  <div class="container">
-                      <div class="row">
-                          <div class="col-lg-12 text-center">
-                              <div class="banner-content-3 white z-10"> <span class="frame-top"></span>
-                                  <span class="frame-bottom"></span>
-                                  <div class="main-banner-texts">
-                                      <h1 class="f-700">{{ trans('main.txt11111111') }}   <span class="yellow">{{ trans('main.txt22222222') }}</span> <span class="blk-spn">{{ trans('main.txt33333333') }} </span></h1>
-                                      <p class="fs-15">{{ trans('main.txt44444444') }}</p> <a href="/contact" class="btn btn-border-out z-5">{{ trans('main.banner_button1') }}</a>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-              </div>
-          </div>
-
-          <div class="item">
-              <div class="each-slider-2 flex-center" style="background-image: url('frontend/assets/img/banner/banner-h3-9.jpg');" data-overlay="4">\
-              </div>
-              <div class="banner-text">
-                  <div class="container">
-                      <div class="row">
-                          <div class="col-lg-12 text-center">
-                              <div class="banner-content-3 white z-10"> <span class="frame-top"></span>
-                                  <span class="frame-bottom"></span>
-                                  <div class="main-banner-texts">
-                                      <h1 class="f-700">{{ trans('main.txt111111111') }}   <span class="yellow">{{ trans('main.txt222222222') }}</span> <span class="blk-spn">{{ trans('main.txt333333333') }} </span></h1>
-                                      <p class="fs-15">{{ trans('main.txt444444444') }}</p> <a href="/contact" class="btn btn-border-out z-5">{{ trans('main.banner_button1') }}</a>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-              </div>
-          </div>
-
-          <div class="item">
-              <div class="each-slider-2 flex-center" style="background-image: url('frontend/assets/img/banner/banner-h3-10.jpg');" data-overlay="4">\
-              </div>
-              <div class="banner-text">
-                  <div class="container">
-                      <div class="row">
-                          <div class="col-lg-12 text-center">
-                              <div class="banner-content-3 white z-10"> <span class="frame-top"></span>
-                                  <span class="frame-bottom"></span>
-                                  <div class="main-banner-texts">
-                                      <h1 class="f-700">{{ trans('main.txt1111111111') }}   <span class="yellow">{{ trans('main.txt2222222222') }}</span> <span class="blk-spn">{{ trans('main.txt3333333333') }} </span></h1>
-                                      <p class="fs-15">{{ trans('main.txt4444444444') }}</p> <a href="/contact" class="btn btn-border-out z-5">{{ trans('main.banner_button1') }}</a>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-              </div>
-          </div>
-
-          <div class="item">
-              <div class="each-slider-2 flex-center" style="background-image: url('frontend/assets/img/banner/banner-h3-11.jpg');" data-overlay="4">\
-              </div>
-              <div class="banner-text">
-                  <div class="container">
-                      <div class="row">
-                          <div class="col-lg-12 text-center">
-                              <div class="banner-content-3 white z-10"> <span class="frame-top"></span>
-                                  <span class="frame-bottom"></span>
-                                  <div class="main-banner-texts">
-                                      <h1 class="f-700">{{ trans('main.txt11111111111') }}   <span class="yellow">{{ trans('main.txt22222222222') }}</span> <span class="blk-spn">{{ trans('main.txt33333333333') }} </span></h1>
-                                      <p class="fs-15">{{ trans('main.txt44444444444') }}</p> <a href="/contact" class="btn btn-border-out z-5">{{ trans('main.banner_button1') }}</a>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-              </div>
-          </div>
-
-          <div class="item">
-              <div class="each-slider-2 flex-center" style="background-image: url('frontend/assets/img/banner/banner-h3-12.jpg');" data-overlay="4">\
-              </div>
-              <div class="banner-text">
-                  <div class="container">
-                      <div class="row">
-                          <div class="col-lg-12 text-center">
-                              <div class="banner-content-3 white z-10"> <span class="frame-top"></span>
-                                  <span class="frame-bottom"></span>
-                                  <div class="main-banner-texts">
-                                      <h1 class="f-700">{{ trans('main.txt111111111111') }}   <span class="yellow">{{ trans('main.txt222222222222') }}</span> <span class="blk-spn">{{ trans('main.txt333333333333') }} </span></h1>
-                                      <p class="fs-15">{{ trans('main.txt444444444444') }}</p> <a href="/contact" class="btn btn-border-out z-5">{{ trans('main.banner_button1') }}</a>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-              </div>
-          </div>
-
-          <div class="item">
-              <div class="each-slider-2 flex-center" style="background-image: url('frontend/assets/img/banner/banner-h3-13.jpg');" data-overlay="4">\
-              </div>
-              <div class="banner-text">
-                  <div class="container">
-                      <div class="row">
-                          <div class="col-lg-12 text-center">
-                              <div class="banner-content-3 white z-10"> <span class="frame-top"></span>
-                                  <span class="frame-bottom"></span>
-                                  <div class="main-banner-texts">
-                                      <h1 class="f-700">{{ trans('main.txt1111111111111') }}   <span class="yellow">{{ trans('main.txt2222222222222') }}</span> <span class="blk-spn">{{ trans('main.txt3333333333333') }} </span></h1>
-                                      <p class="fs-15">{{ trans('main.txt4444444444444') }}</p> <a href="/contact" class="btn btn-border-out z-5">{{ trans('main.banner_button1') }}</a>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-              </div>
-          </div>
-
-          <div class="item">
-              <div class="each-slider-2 flex-center" style="background-image: url('frontend/assets/img/banner/banner-h3-14.jpg');" data-overlay="4">\
-              </div>
-              <div class="banner-text">
-                  <div class="container">
-                      <div class="row">
-                          <div class="col-lg-12 text-center">
-                              <div class="banner-content-3 white z-10"> <span class="frame-top"></span>
-                                  <span class="frame-bottom"></span>
-                                  <div class="main-banner-texts">
-                                      <h1 class="f-700">{{ trans('main.txt11111111111111') }}   <span class="yellow">{{ trans('main.txt22222222222222') }}</span> <span class="blk-spn">{{ trans('main.txt33333333333333') }} </span></h1>
-                                      <p class="fs-15">{{ trans('main.txt44444444444444') }}</p> <a href="/contact" class="btn btn-border-out z-5">{{ trans('main.banner_button1') }}</a>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-              </div>
-          </div>
 
         </div>
     </section>
@@ -337,10 +179,10 @@
                     <div class="client-slide-outer pt-80 mt-30">
                         <div class="owl-carousel owl-theme client-slider" dir="ltr">
                             <div class="item">
-                                <img src="frontend/assets/img/clients/1.png" class="client-logo" alt="">
+                                <img src="frontend/assets/img/clients/1.gif" class="client-logo" alt="">
                             </div>
                             <div class="item">
-                                <img src="frontend/assets/img/clients/2.png" class="client-logo" alt="">
+                                <img src="frontend/assets/img/clients/2.gif" class="client-logo" alt="">
                         </div>
                     </div>
                 </div>
@@ -372,7 +214,7 @@
                                 </audio>
                                 </div>
                                 <div class="player-controls scrubber">
-                                    <small class="end-time">02:43</small>
+                                    <small class="end-time">05:50</small>
                                     <span id="seekObjContainer"> <progress id="seekObj" value="0" max="1"></progress> </span>
                                     <i class="fa fa-volume-up"></i>
                                 </div>
@@ -404,18 +246,18 @@
             <div class="row work-masonry-div">
                 <div class="col-lg-4 col-md-6 work-grid-item">
                     <div class="mnsry-work relative">
-                        <img src="{{ asset('frontend/assets/img/work/a1.jpg') }}" alt="">
+                        <img src="{{ asset('frontend/assets/img/work/1.jpg') }}" alt="">
                         <div class="content-wk transition-5">
                             <div class="overlay-full transition-4"></div>
-                            <a href="ministries.html" class="plus-btn plus-btn-center transform-center"> <span class="h-line"></span>
+                            <a href="{{ url("/vposts/index") }}" onclick='alert("In new version")' class="plus-btn plus-btn-center transform-center"> <span class="h-line"></span>
                                 <span class="v-line"></span>
                             </a>
                             <div class="work-text text-center">
                                 <ul class="category yellow">
-                                    <li>D.W.A.M</li>
-                                    <li>Life</li>
+                                    <li>S.A.L.A.A.M C.E.N.T.E.R</li>
+                                    <li>Baltimore</li>
                                 </ul>
-                                <h4 class="mb-10"><a href="ministries.html" class="fs-25 f-700 white hover-white">Videos</a></h4>
+                                <h4 class="mb-10"><a href="{{ url("/vposts/index") }}" onclick='alert("In new version")' class="fs-25 f-700 white hover-white">Videos</a></h4>
                                 <p class=" white">Enjoy with D.W.A.M'S life Video.</p>
                             </div>
                         </div>
@@ -423,18 +265,18 @@
                 </div>
                 <div class="col-lg-4 col-md-6 work-grid-item">
                     <div class="mnsry-work relative">
-                        <img src="frontend/assets/img/work/a2.jpg" alt="">
+                        <img src="frontend/assets/img/work/2.jpg" alt="">
                         <div class="content-wk transition-5">
                             <div class="overlay-full transition-4"></div>
-                            <a href="sermons.html" class="plus-btn plus-btn-center transform-center"> <span class="h-line"></span>
+                            <a href="{{ url("/vposts/index") }}" class="plus-btn plus-btn-center transform-center"> <span class="h-line"></span>
                                 <span class="v-line"></span>
                             </a>
                             <div class="work-text text-center">
                                 <ul class="category yellow">
-                                    <li>D.W.A.M.</li>
-                                    <li>Life</li>
+                                  <li>S.A.L.A.A.M C.E.N.T.E.R</li>
+                                  <li>Baltimore</li>
                                 </ul>
-                                <h4 class="mb-10"><a href="sermons.html" class="fs-25 f-700 white hover-white">Previous Video</a></h4>
+                                <h4 class="mb-10"><a href="{{ url("/vposts/index") }}" class="fs-25 f-700 white hover-white">Previous Video</a></h4>
                                 <p class=" white">Enjoy all previous videos and leave comment.</p>
                             </div>
                         </div>
@@ -442,37 +284,37 @@
                 </div>
                 <div class="col-lg-4 col-md-6 work-grid-item">
                     <div class="mnsry-work relative">
-                        <img src="frontend/assets/img/work/a3.jpg" alt="">
+                        <img src="frontend/assets/img/work/ev3.jpg" alt="">
                         <div class="content-wk transition-5">
                             <div class="overlay-full transition-4"></div>
-                            <a href="events.html" class="plus-btn plus-btn-center transform-center"> <span class="h-line"></span>
+                            <a href="#"  onclick='alert("In new version")' class="plus-btn plus-btn-center transform-center"> <span class="h-line"></span>
                                 <span class="v-line"></span>
                             </a>
                             <div class="work-text text-center">
                                 <ul class="category yellow">
-                                    <li>D.W.A.M.</li>
-                                    <li>Life</li>
+                                  <li>S.A.L.A.A.M C.E.N.T.E.R</li>
+                                  <li>Baltimore</li>
                                 </ul>
-                                <h4 class="mb-10"><a href="events.html" class="fs-25 f-700 white hover-white">Events</a></h4>
-                                <p class=" white">Each month, DWAM give you a new EVENT.</p>
+                                <h4 class="mb-10"><a href="#" onclick='alert("In new version")' class="fs-25 f-700 white hover-white">Events</a></h4>
+                                <p class=" white">Each year, DWAM give you a new EVENT.</p>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 work-grid-item">
                     <div class="mnsry-work relative">
-                        <img src="frontend/assets/img/work/a4.jpg" alt="">
+                        <img src="frontend/assets/img/work/blog4.jpg" alt="">
                         <div class="content-wk transition-5">
                             <div class="overlay-full transition-4"></div>
-                            <a href="blog.html" class="plus-btn plus-btn-center transform-center"> <span class="h-line"></span>
+                            <a href="{{ url("/posts/index") }}" class="plus-btn plus-btn-center transform-center"> <span class="h-line"></span>
                                 <span class="v-line"></span>
                             </a>
                             <div class="work-text text-center">
                                 <ul class="category yellow">
-                                    <li>D.W.A.M.</li>
-                                    <li>Life</li>
+                                  <li>S.A.L.A.A.M C.E.N.T.E.R</li>
+                                  <li>Baltimore</li>
                                 </ul>
-                                <h4 class="mb-10"><a href="blog.html" class="fs-25 f-700 white hover-white">Blog</a></h4>
+                                <h4 class="mb-10"><a href="{{ url("/posts/index") }}" class="fs-25 f-700 white hover-white">Blog</a></h4>
                                 <p class=" white">Enjoy DWAM Blogs and interact with comments.</p>
                             </div>
                         </div>
@@ -483,15 +325,15 @@
                         <img src="frontend/assets/img/work/a5.jpg" alt="">
                         <div class="content-wk transition-5">
                             <div class="overlay-full transition-4"></div>
-                            <a href="services.html" class="plus-btn plus-btn-center transform-center"> <span class="h-line"></span>
+                            <a href="#" onclick='Alert("In new version")' class="plus-btn plus-btn-center transform-center"> <span class="h-line"></span>
                                 <span class="v-line"></span>
                             </a>
                             <div class="work-text text-center">
                                 <ul class="category yellow">
-                                    <li>D.W.A.M.</li>
-                                    <li>Life</li>
+                                  <li>S.A.L.A.A.M C.E.N.T.E.R</li>
+                                  <li>Baltimore</li>
                                 </ul>
-                                <h4 class="mb-10"><a href="services.html" class="fs-25 f-700 white hover-white">Services</a></h4>
+                                <h4 class="mb-10"><a href="#" onclick='Alert("In new version")' class="fs-25 f-700 white hover-white">Services</a></h4>
                                 <p class=" white">Enjoy DWAM Services and interact with us.</p>
                             </div>
                         </div>
@@ -502,15 +344,15 @@
                         <img src="frontend/assets/img/work/a6.jpg" alt="">
                         <div class="content-wk transition-5">
                             <div class="overlay-full transition-4"></div>
-                            <a href="donate.php" class="plus-btn plus-btn-center transform-center"> <span class="h-line"></span>
+                            <a href="#" onclick='Alert("In new version")' class="plus-btn plus-btn-center transform-center"> <span class="h-line"></span>
                                 <span class="v-line"></span>
                             </a>
                             <div class="work-text text-center">
                                 <ul class="category yellow">
-                                    <li>D.W.A.M.</li>
-                                    <li>Life</li>
+                                  <li>S.A.L.A.A.M C.E.N.T.E.R</li>
+                                  <li>Baltimore</li>
                                 </ul>
-                                <h4 class="mb-10"><a href="donate.php" class="fs-25 f-700 white hover-white">{{trans('main.donate')}}</a></h4>
+                                <h4 class="mb-10"><a href="#" onclick='Alert("In new version")' class="fs-25 f-700 white hover-white">{{trans('main.donate')}}</a></h4>
                                 <p class=" white">Share your love by donating.</p>
                             </div>
                         </div>
@@ -518,18 +360,18 @@
                 </div>
                 <div class="col-lg-4 col-md-6 work-grid-item">
                     <div class="mnsry-work relative">
-                        <img src="frontend/assets/img/work/a7.jpg" alt="">
+                        <img src="frontend/assets/img/work/member7.jpg" alt="">
                         <div class="content-wk transition-5">
                             <div class="overlay-full transition-4"></div>
-                            <a href="our-member.html" class="plus-btn plus-btn-center transform-center"> <span class="h-line"></span>
+                            <a href="#" onclick='alert("In new version")' class="plus-btn plus-btn-center transform-center"> <span class="h-line"></span>
                                 <span class="v-line"></span>
                             </a>
                             <div class="work-text text-center">
                                 <ul class="category yellow">
-                                    <li>D.W.A.M.</li>
-                                    <li>Life</li>
+                                  <li>S.A.L.A.A.M C.E.N.T.E.R</li>
+                                  <li>Baltimore</li>
                                 </ul>
-                                <h4 class="mb-10"><a href="our-member.html" class="fs-25 f-700 white hover-white">Our Members</a></h4>
+                                <h4 class="mb-10"><a href="#"  onclick='alert("In new version")'  class="fs-25 f-700 white hover-white">Our Members</a></h4>
                                 <p class=" white">Enjoy DWAM society with interacting us.</p>
                             </div>
                         </div>
@@ -537,18 +379,18 @@
                 </div>
                 <div class="col-lg-4 col-md-6 work-grid-item">
                     <div class="mnsry-work relative">
-                        <img src="{{ asset('frontend/assets/img/work/a8.jpg') }}" alt="">
+                        <img src="{{ asset('frontend/assets/img/work/partner8.jpg') }}" alt="">
                         <div class="content-wk transition-5">
                             <div class="overlay-full transition-4"></div>
-                            <a href="our-partner.html" class="plus-btn plus-btn-center transform-center"> <span class="h-line"></span>
+                            <a href="#" onclick='alert("In new version")' class="plus-btn plus-btn-center transform-center"> <span class="h-line"></span>
                                 <span class="v-line"></span>
                             </a>
                             <div class="work-text text-center">
                                 <ul class="category yellow">
-                                    <li>D.W.A.M.</li>
-                                    <li>Life</li>
+                                  <li>S.A.L.A.A.M C.E.N.T.E.R</li>
+                                  <li>Baltimore</li>
                                 </ul>
-                                <h4 class="mb-10"><a href="our-partner.html" class="fs-25 f-700 white hover-white">Our Partners</a></h4>
+                                <h4 class="mb-10"><a href="#" onclick='alert("In new version")' class="fs-25 f-700 white hover-white">Our Partners</a></h4>
                                 <p class=" white">Interact with our partners in direct way.</p>
                             </div>
                         </div>
@@ -556,18 +398,18 @@
                 </div>
                 <div class="col-lg-4 col-md-6 work-grid-item">
                     <div class="mnsry-work relative">
-                        <img src="{{ asset('frontend/assets/img/work/a9.jpg') }}" alt="">
+                        <img src="{{ asset('frontend/assets/img/work/about9.jpg') }}" alt="">
                         <div class="content-wk transition-5">
                             <div class="overlay-full transition-4"></div>
-                            <a href="about-us.html" class="plus-btn plus-btn-center transform-center"> <span class="h-line"></span>
+                            <a href="{{ url("/about") }}" class="plus-btn plus-btn-center transform-center"> <span class="h-line"></span>
                                 <span class="v-line"></span>
                             </a>
                             <div class="work-text text-center">
                                 <ul class="category yellow">
-                                    <li>D.W.A.M.</li>
-                                    <li>Life</li>
+                                  <li>S.A.L.A.A.M C.E.N.T.E.R</li>
+                                  <li>Baltimore</li>
                                 </ul>
-                                <h4 class="mb-10"><a href="about-us.html" class="fs-25 f-700 white hover-white">About Us</a></h4>
+                                <h4 class="mb-10"><a href="{{ url("/about") }}" class="fs-25 f-700 white hover-white">About Us</a></h4>
                                 <p class=" white">You can know all about US.</p>
                             </div>
                         </div>
@@ -575,19 +417,19 @@
                 </div>
                 <div class="col-lg-4 col-md-6 work-grid-item">
                     <div class="mnsry-work relative">
-                        <img src="{{ asset('frontend/assets/img/work/a10.jpg') }}" alt="">
+                        <img src="{{ asset('frontend/assets/img/work/pastor10.jpg') }}" alt="">
                         <div class="content-wk transition-5">
                             <div class="overlay-full transition-4"></div>
-                            <a href="about-pastor.html" class="plus-btn plus-btn-center transform-center"> <span class="h-line"></span>
+                            <a href="#" onclick='alert("In new version")' class="plus-btn plus-btn-center transform-center"> <span class="h-line"></span>
                                 <span class="v-line"></span>
                             </a>
                             <div class="work-text text-center">
                                 <ul class="category yellow">
-                                    <li>D.W.A.M.</li>
-                                    <li>Life</li>
+                                  <li>Volunteer Leader</li>
+                                  <li>S.A.L.A.A.M C.E.N.T.E.R Baltimore</li>
                                 </ul>
-                                <h4 class="mb-10"><a href="about-pastor.html" class="fs-25 f-700 white hover-white">About responsible</a></h4>
-                                <p class=" white">DR Maher Samuel.</p>
+                                <h4 class="mb-10"><a href="#" onclick='alert("In new version")' class="fs-25 f-700 white hover-white">About responsible</a></h4>
+                                <p class=" white">Head Coordinator Reda Narouz.</p>
                             </div>
                         </div>
                     </div>
@@ -597,15 +439,15 @@
                         <img src="frontend/assets/img/work/a11.jpg" alt="">
                         <div class="content-wk transition-5">
                             <div class="overlay-full transition-4"></div>
-                            <a href="#" class="plus-btn plus-btn-center transform-center"> <span class="h-line"></span>
+                            <a href="#" onclick='alert("In new version")' class="plus-btn plus-btn-center transform-center"> <span class="h-line"></span>
                                 <span class="v-line"></span>
                             </a>
                             <div class="work-text text-center">
                                 <ul class="category yellow">
-                                    <li>D.W.A.M.</li>
-                                    <li>Life</li>
+                                  <li>S.A.L.A.A.M C.E.N.T.E.R</li>
+                                  <li>Baltimore</li>
                                 </ul>
-                                <h4 class="mb-10"><a href="#" class="fs-25 f-700 white hover-white">Shop</a></h4>
+                                <h4 class="mb-10"><a href="#" onclick='alert("In new version")' class="fs-25 f-700 white hover-white">Shop</a></h4>
                                 <p class=" white">Now you can collect your needs.</p>
                             </div>
                         </div>
@@ -616,15 +458,15 @@
                         <img src="{{ asset('frontend/assets/img/work/a12.jpg') }}" alt="">
                         <div class="content-wk transition-5">
                             <div class="overlay-full transition-4"></div>
-                            <a href="#" class="plus-btn plus-btn-center transform-center"> <span class="h-line"></span>
+                            <a href="#" onclick='alert("In new version")' class="plus-btn plus-btn-center transform-center"> <span class="h-line"></span>
                                 <span class="v-line"></span>
                             </a>
                             <div class="work-text text-center">
                                 <ul class="category yellow">
-                                    <li>D.W.A.M.</li>
-                                    <li>Life</li>
+                                  <li>S.A.L.A.A.M C.E.N.T.E.R</li>
+                                  <li>Baltimore</li>
                                 </ul>
-                                <h4 class="mb-10"><a href="#" class="fs-25 f-700 white hover-white">Verses</a></h4>
+                                <h4 class="mb-10"><a href="#" onclick='alert("In new version")' class="fs-25 f-700 white hover-white">Verses</a></h4>
                                 <p class=" white">Each you need spirit food.</p>
                             </div>
                         </div>
@@ -635,15 +477,15 @@
                         <img src="{{ asset('frontend/assets/img/work/a15.jpg') }}" alt="">
                         <div class="content-wk transition-5">
                             <div class="overlay-full transition-4"></div>
-                            <a href="#" class="plus-btn plus-btn-center transform-center"> <span class="h-line"></span>
+                            <a href="#" onclick='alert("In new version")' class="plus-btn plus-btn-center transform-center"> <span class="h-line"></span>
                                 <span class="v-line"></span>
                             </a>
                             <div class="work-text text-center">
                                 <ul class="category yellow">
-                                    <li>D.W.A.M.</li>
-                                    <li>Life</li>
+                                  <li>S.A.L.A.A.M C.E.N.T.E.R</li>
+                                  <li>Baltimore</li>
                                 </ul>
-                                <h4 class="mb-10"><a href="#" class="fs-25 f-700 white hover-white">News</a></h4>
+                                <h4 class="mb-10"><a href="#" onclick='alert("In new version")' class="fs-25 f-700 white hover-white">News</a></h4>
                                 <p class=" white">Now you can know the news.</p>
                             </div>
                         </div>
@@ -654,15 +496,15 @@
                         <img src="{{ asset('frontend/assets/img/work/a55.jpg') }}" alt="">
                         <div class="content-wk transition-5">
                             <div class="overlay-full transition-4"></div>
-                            <a href="/contact" class="plus-btn plus-btn-center transform-center"> <span class="h-line"></span>
+                            <a href="{{ url("/contact") }}" class="plus-btn plus-btn-center transform-center"> <span class="h-line"></span>
                                 <span class="v-line"></span>
                             </a>
                             <div class="work-text text-center">
                                 <ul class="category yellow">
-                                    <li>D.W.A.M.</li>
-                                    <li>Life</li>
+                                  <li>S.A.L.A.A.M C.E.N.T.E.R</li>
+                                  <li>Baltimore</li>
                                 </ul>
-                                <h4 class="mb-10"><a href="/contact" class="fs-25 f-700 white hover-white">Connect</a></h4>
+                                <h4 class="mb-10"><a href="{{ url("/contact") }}" class="fs-25 f-700 white hover-white">Connect</a></h4>
                                 <p class=" white">We hope your contacting with D.W.A.M.</p>
                             </div>
                         </div>
@@ -673,15 +515,15 @@
                         <img src="{{ asset('frontend/assets/img/work/a7a.jpg') }}" alt="">
                         <div class="content-wk transition-5">
                             <div class="overlay-full transition-4"></div>
-                            <a href="contact-2.html" class="plus-btn plus-btn-center transform-center"> <span class="h-line"></span>
+                            <a href="{{ url("/contact") }}" class="plus-btn plus-btn-center transform-center"> <span class="h-line"></span>
                                 <span class="v-line"></span>
                             </a>
                             <div class="work-text text-center">
                                 <ul class="category yellow">
-                                    <li>D.W.A.M.</li>
-                                    <li>Life</li>
+                                  <li>S.A.L.A.A.M C.E.N.T.E.R</li>
+                                  <li>Baltimore</li>
                                 </ul>
-                                <h4 class="mb-10"><a href="contact-2.html" class="fs-25 f-700 white hover-white">Ask A Question</a></h4>
+                                <h4 class="mb-10"><a href="{{ url("/contact") }}" class="fs-25 f-700 white hover-white">Ask A Question</a></h4>
                                 <p class=" white">Don't Delay asking any questions.</p>
                             </div>
                         </div>
@@ -689,18 +531,18 @@
                 </div>
                 <div class="col-lg-4 col-md-6 work-grid-item">
                     <div class="mnsry-work relative">
-                        <img src="{{ asset('frontend/assets/img/work/a8.jpg') }}" alt="">
+                        <img src="{{ asset('frontend/assets/img/work/soc8.jpg') }}" alt="">
                         <div class="content-wk transition-5">
                             <div class="overlay-full transition-4"></div>
-                            <a href="#" class="plus-btn plus-btn-center transform-center"> <span class="h-line"></span>
+                            <a href="#" onclick='alert("In new version")' class="plus-btn plus-btn-center transform-center"> <span class="h-line"></span>
                                 <span class="v-line"></span>
                             </a>
                             <div class="work-text text-center">
                                 <ul class="category yellow">
-                                    <li>D.W.A.M.</li>
-                                    <li>Life</li>
+                                  <li>S.A.L.A.A.M C.E.N.T.E.R</li>
+                                  <li>Baltimore</li>
                                 </ul>
-                                <h4 class="mb-10"><a href="#" class="fs-25 f-700 white hover-white">Socialize</a></h4>
+                                <h4 class="mb-10"><a href="#" onclick='alert("In new version")' class="fs-25 f-700 white hover-white">Socialize</a></h4>
                                 <p class=" white">Let's interact with US.</p>
                             </div>
                         </div>
@@ -717,7 +559,7 @@
     </section>
     <!-- work gallery end -->
     <!-- about me start -->
-    <!-- <section class="about-me2 pt-80 pb-80 bg-light-white">
+    <section class="about-me2 pt-80 pb-80 bg-light-white">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-5 z-5">
@@ -740,15 +582,15 @@
                     <h3 class="f-700 mb-15 fs-20">{{trans('main.me_why')}}</h3>
                     <ul class="yello-dot-list">
                         <li>{{ trans('main.reson1') }} </li>
-                        <li>{{ trans('main.reson1') }} </li>
-                        <li>{{ trans('main.reson1') }} </li>
-                        <li>{{ trans('main.reson1') }} </li>
-                        <li>{{ trans('main.reson1') }} </li>
+                        <li>{{ trans('main.reson2') }} </li>
+                        <li>{{ trans('main.reson3') }} </li>
+                        <li>{{ trans('main.reson4') }} </li>
+                        <li>{{ trans('main.reson5') }} </li>
                     </ul>
                 </div>
             </div>
         </div>
-    </section> -->
+    </section>
     <!-- about me end -->
     <!-- shooting style start -->
     <div class="section shooting pt-30 pb-30">
@@ -763,7 +605,7 @@
                     </div>
                     <div class="video-area relative mt-45 shadow-1">
                         <img src="{{ asset('frontend/assets/img/bg/style.jpg') }}" alt="">
-                        <a href="https://www.youtube.com/watch?v=iPzxoFLnd9w" class="laink-arrow z-10 popup-video transform-center"> <i class="fas fa-play"></i>
+                        <a href="https://www.youtube.com/watch?v=i-EIy_-5B80" class="laink-arrow z-10 popup-video transform-center"> <i class="fas fa-play"></i>
                         </a>
                     </div>
                 </div>
@@ -772,7 +614,7 @@
     </div>
     <!-- shooting style end -->
     <!-- testimonials start -->
-    <!-- <section class="pt-80 pb-80 bg-light-white">
+    <section class="pt-80 pb-80 bg-light-white">
         <div class="container">
             <div class="row mb-sm-35">
                 <div class="col-md-9 col-sm-12 text-center text-md-left">
@@ -901,7 +743,7 @@
                 </div>
             </div>
         </div>
-    </section> -->
+    </section>
     <!-- testimonials end -->
     <!-- Blog start -->
     <section class="blog-area pb-80 pt-80">
@@ -927,13 +769,13 @@
                         <div class="item">
                             <div class="each-blog">
                                 <div class="blog-img relative">
-                                    <img src="frontend/assets/img/blog/blog1.png" alt="">
-                                    <a href="events-detail.html" class="blog-link transform-center "> <i class="fas fa-arrow-right"></i>
+                                    <img src="frontend/assets/img/blog/EV1.jpg" alt="">
+                                    <a href="#" class="blog-link transform-center "> <i class="fas fa-arrow-right"></i>
                                     </a>
                                 </div>
                                 <div class="blog-text">
                                     <h4 class="mt-20 mb-20 txt-{{GetDirection()}}">
-                                        <a href="events-detail.html" class="f-700 fs-19">{{ trans('main.event1') }}</a>
+                                        <a href="#" class="f-700 fs-19">{{ trans('main.event1') }}</a>
                                     </h4>
                                     <div class="blog-data">
                                         <ul class="d-flex align-items-center">
@@ -947,7 +789,7 @@
                         <div class="item">
                             <div class="each-blog">
                                 <div class="blog-img relative">
-                                    <img src="frontend/assets/img/blog/blog2.png" alt="">
+                                    <img src="frontend/assets/img/blog/ev2.jpg" alt="">
                                     <a href="#" class="blog-link transform-center"> <i class="fas fa-arrow-right"></i>
                                     </a>
                                 </div>

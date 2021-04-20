@@ -22,7 +22,7 @@
                         </li>
                         <li> <a href="/vposts/index">{{ trans('main.videos') }}</a>
                         </li>
-                        <li> <a href="#" onclick='alert("إنتظروا الإصدار القادم بنعمة ربنا")'>{{ trans('main.terms') }}</a>
+                        <li> <a href="#" onclick='alert("In new version")'>{{ trans('main.terms') }}</a>
                         </li>
                     </ul>
                 </div>
@@ -51,17 +51,17 @@
                 </div>
                 <div class="col-lg-6 col-md-12 text-center text-lg-left mb-md-10">
                     <ul class="social-icons footer-social">
-                        <li> <a href="https://www.facebook.com/DoctorsWithAMission/" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                        <li> <a href="https://web.facebook.com/The-Salaam-Center-Baltimore-191193411370303?_rdc=1&_rdr" target="_blank"><i class="fab fa-facebook-f"></i></a>
                         </li>
                         <!-- <li> <a href="#"><i class="fab fa-twitter"></i></a>
                         </li>
-                        <li> <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                        <li> <a href="#"><i class="fab fa-linkedin-in"></i></a><i class="fab fa-instagram"></i>
                         </li> -->
-                        <li> <a href="https://youtube.com/channel/UCPg_ihi25b6MBda2Obc0_qA" target="_blank"><i class="fab fa-youtube"></i></a>
+                        <li> <a href="https://www.instagram.com/salaambaltimore/" target="_blank"><i class="fab fa-instagram"></i></a>
                         </li>
                     </ul>
                 </div>
-                <div class="col-lg-6 col-md-12 text-center text-lg-right"> Mario © D.W.A.M. 2021 Allright Reserved</div>
+                <div class="col-lg-6 col-md-12 text-center text-lg-right"> Mario © S.A.L.A.A.M CENTER 2021 Allright Reserved</div>
             </div>
         </div>
         <a href="#" class="btn scroll-btn f-right flex-center z-25 opacity-0"> <i class="fas fa-arrow-up"></i>

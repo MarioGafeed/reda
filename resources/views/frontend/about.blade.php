@@ -36,13 +36,13 @@
             <div class="col-lg-12">
                 <div class="photo-collage">
                     <div class="photo-left shadow-1">
-                        <img src="frontend/assets/img/gallery/collage1.jpg" alt="">
+                        <img src="frontend/assets/img/gallery/1.jpg" alt="">
                     </div>
                     <div class="photo-center transform-h-center shadow-1 z-10">
-                        <img src="frontend/assets/img/gallery/collage2.jpg" alt="">
+                        <img src="frontend/assets/img/gallery/2.jpg" alt="">
                     </div>
                     <div class="photo-right shadow-1">
-                        <img src="frontend/assets/img/gallery/collage3.jpg" alt="">
+                        <img src="frontend/assets/img/gallery/3.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -57,7 +57,7 @@
             <div class="col-lg-6">
                 <h3 class="lh-15 mb-md-20 mt-xs-10">{{trans('main.about_desc_right')}}</h3>
             </div>
-            <div class="col-lg-5 offset-lg-1">                
+            <div class="col-lg-5 offset-lg-1">
                 <p>{{trans('main.about_desc_left')}}</p>
                 <p class="mb-0">{{trans('main.about_desc_left2')}}</p>
             </div>
@@ -71,7 +71,7 @@
         <div class="row">
             <div class="col-lg-12 text-center">
                 <div class="our-style-text z-10">
-                    <a href="https://www.youtube.com/watch?v=ZTC8ay17Oi8" class="laink-arrow opacity-1 z-10 popup-video  mb-35"> <i class="fas fa-play"></i>
+                    <a href="https://www.youtube.com/watch?v=i-EIy_-5B80" class="laink-arrow opacity-1 z-10 popup-video  mb-35"> <i class="fas fa-play"></i>
                     </a>
                     <h3 class="white fs-58 f-700 mb-25">{{trans('main.about_video_title')}}</h3>
                     <p class="white">{{trans('main.about_video_desc')}}</p> <span class="line-vd"></span>
@@ -125,13 +125,13 @@
                     <span class="fade-texts">{{trans('main.about_pastor_txt_title')}}</span>
                 </h3>
             </div>
-            <div class="col-md-3 col-sm-12 text-center text-md-right"> <a href="#" onclick='alert("في الإصدار القادم صلوا لأجلنا")' class="viewall fs-12 f-700">{{trans('main.view_all')}}
+            <div class="col-md-3 col-sm-12 text-center text-md-right"> <a href="#" onclick='alert("In new version")' class="viewall fs-12 f-700">{{trans('main.view_all')}}
                 <i class="fas fa-long-arrow-alt-right ml-5"></i>
             </a>
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <div class="team-img shadow-1 js-tilt3">
                     <img src="frontend/assets/img/team/1.jpg" alt="">
                     <div class="team-text text-center">
@@ -153,7 +153,7 @@
 
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <div class="team-img shadow-1 js-tilt3">
                     <img src="frontend/assets/img/team/2.jpg" alt="">
                     <div class="team-text text-center">
@@ -175,34 +175,12 @@
 
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <div class="team-img shadow-1 js-tilt3">
                     <img src="frontend/assets/img/team/3.jpg" alt="">
                     <div class="team-text text-center">
                         <h4 class="fs-22 f-700 yellow mb-10">{{trans('main.about_pastor3')}}</h4>
                         <p class="white mb-0">{{trans('main.about_pastor3_role')}}</p>
-                        <div class="social-team">
-                            <ul class="social-icons white">
-                                <li> <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                </li>
-                                <li> <a href="#"><i class="fab fa-twitter"></i></a>
-                                </li>
-                                <li> <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                </li>
-                                <li> <a href="#"><i class="fab fa-google-plus-g"></i></a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="team-img shadow-1 js-tilt3">
-                    <img src="frontend/assets/img/team/4.jpg" alt="">
-                    <div class="team-text text-center">
-                        <h4 class="fs-22 f-700 yellow mb-10">{{trans('main.about_pastor4')}}</h4>
-                        <p class="white mb-0">{{trans('main.about_pastor4_role')}}</p>
                         <div class="social-team">
                             <ul class="social-icons white">
                                 <li> <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -390,31 +368,31 @@
                     <div class="row no-gutters">
                         <div class="col-lg-4 col-sm-6 text-center">
                             <div class="logo-each flex-center">
-                                <img src="frontend/assets/img/clients/1.png" alt="">
+                                <img src="frontend/assets/img/clients/1.gif" alt="">
                             </div>
                         </div>
                         <div class="col-lg-4 col-sm-6 text-center">
                             <div class="logo-each flex-center">
-                                <img src="frontend/assets/img/clients/2.png" alt="">
+                                <img src="frontend/assets/img/clients/2.gif" alt="">
                             </div>
                         </div>
                         <div class="col-lg-4 col-sm-6 text-center">
                             <div class="logo-each flex-center">
-                                <img src="frontend/assets/img/clients/3.png" alt="">
+                                <img src="frontend/assets/img/clients/1.gif" alt="">
                             </div>
                         </div>
                         <div class="col-lg-4 col-sm-6 text-center">
                             <div class="logo-each flex-center">
-                                <img src="frontend/assets/img/clients/4.png" alt="">
+                                <img src="frontend/assets/img/clients/2.gif" alt="">
                             </div>
                         </div>
                         <div class="col-lg-4 col-sm-6 text-center">
                             <div class="logo-each flex-center">
-                                <img src="frontend/assets/img/clients/5.png" alt="">
+                                <img src="frontend/assets/img/clients/1.gif" alt="">
                             </div>
                         </div>
                         <div class="col-lg-4 col-sm-6 text-center">
-                            <div class="logo-each flex-center"> <a href="#" onclick='alert("في الإصدار القادم صلوا لأجلنا")' class="btn btn-yellow f-700 btn-md shadow-1">
+                            <div class="logo-each flex-center"> <a href="#" onclick='alert("In new version")' class="btn btn-yellow f-700 btn-md shadow-1">
                                     {{trans('main.view_all')}}<i class="fas fa-chevron-right ml-15 fs-11"></i>
                                 </a>
                             </div>

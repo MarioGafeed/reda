@@ -37,8 +37,8 @@
                     <div class="ctnct-info-icon"> <i class="fas fa-phone"></i>
                     </div>
                     <h5 class="fs-12 f-500 mb-10">{{ trans('main.call') }}</h5>
-                    <p class="bld-text"> <a href="#" class="fs-16 f-500">01224246679</a>
-                        <a href="#" class="fs-16 f-500">01223945545</a>
+                    <p class="bld-text"> <a href="#" class="fs-16 f-500">443-787-8070</a>
+                        <a href="#" class="fs-16 f-500">443-787-8070</a>
                     </p>
                 </div>
             </div>
@@ -47,8 +47,8 @@
                     <div class="ctnct-info-icon"> <i class="fas fa-envelope"></i>
                     </div>
                     <h5 class="fs-12 f-500 mb-10">{{ trans('main.send_mail') }}</h5>
-                    <p class="bld-text"> <a href="#" class="fs-16 f-500">dwam@dwam4j.net</a>
-                        <a href="#" class="fs-16 f-500">contact@dwam4j.net</a>
+                    <p class="bld-text"> <a href="#" class="fs-16 f-500">dwam@salaamcenterbaltimore.com</a>
+                        <a href="#" class="fs-16 f-500">contact@salaamcenterbaltimore.com</a>
                     </p>
                 </div>
             </div>

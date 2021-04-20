@@ -27,7 +27,7 @@
                     <li class="mg-nav-item mg-nav-item-has-children nav-link">
                         <a href="{{ url("/vposts/index") }}">{{ trans('main.videos') }}</a>
                         <ul class="sub-menu">
-                            <li class="mg-nav-item nav-link"> <a href="#" onclick='alert("قريباً في الإصدار القادم")'>{{ trans('main.live_videos') }}</a></li>
+                            <li class="mg-nav-item nav-link"> <a href="#" onclick='alert("In new version")'>{{ trans('main.live_videos') }}</a></li>
                             @foreach($vcats as $vcat)
                               <li class="mg-nav-item nav-link"> <a href="{{ url("/vcatposts/show/{$vcat->id}") }}">
                                   @if(GetLanguage() == 'en')
@@ -42,8 +42,8 @@
                     <li class="mg-nav-item mg-nav-item-has-children nav-link">
                         <a href="#">{{ trans('main.services') }}</a>
                         <ul class="sub-menu">
-                            <li class="mg-nav-item nav-link"> <a href="#" onclick='alert("معذرة تحت الإنشاء")'>{{ trans('main.books') }}</a></li>
-                            <li class="mg-nav-item nav-link"> <a href="#" onclick='alert("معذرة تحت الإنشاء")'>{{ trans('main.book_room') }}</a></li>
+                            <li class="mg-nav-item nav-link"> <a href="#" onclick='alert("In new version")'>{{ trans('main.books') }}</a></li>
+                            <li class="mg-nav-item nav-link"> <a href="#" onclick='alert("In new version")'>{{ trans('main.book_room') }}</a></li>
                         </ul>
                     </li>
                     <li class="mg-nav-item mg-nav-item-has-children nav-link">
@@ -66,7 +66,7 @@
                    <li class="nav-link">
                       <!-- <a style="float:  {{ GetLanguage() == 'en' ? 'left' : 'right' }} ; position: absolute;  {{ GetLanguage() != 'en' ? 'left' : 'right' }} : 30px; top: {{ $errors->count() ? '108px' : '37px' }}; text-decoration: none" href="{{ url('/lang/ar') }}"> -->
 
-                      <a href="{{ url('/lang/ar') }}"><span class="avia-bullet"></span><span class="avia-menu-text">
+                      <a href="" onclick='alert("Sorry In new version")'><span class="avia-bullet"></span><span class="avia-menu-text">
                           <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAYAAAB24g05AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAPwAAAD8BR5eJ4AAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAEOSURBVCiRpZHNSsNQEEbPTXOtoc1NmyhFK6ioCLXioq4UdOtz+Ia+g+7cFQURhYClikRtqGkTm8SFbkrSWHC23w9nZgTnnZR/jFYkiiRFJMX9+izBSRbZ6ks0BPcrEZ42np+g7SuOqiFi/xUOXji1Qtq+mo/ACSW2GvJsN9DkElEy4UH2qdeGOCOJV/4qJmhqJgsqpLNzzHLFpqEcTlpnKCugqZl/E/SiAU5osWkZGHINfxSwrgS3I4teNAA57ReZN6Zw+GlTW/XY3t0A4PHO5e2pzrX5DmK6IHtEAV3jAzXew70UuFeC6rhFtzLIhHNXAAhLCRfBDaXyjxwHE2I9Jz2rACDWBTHxrys/DPAN4YpPXyWy3BoAAAAASUVORK5CYII=" title="English" alt="English"> {{ ' عربي ' }} <i class="fa fa-globe"></i>
                       </a>
                   </li>
@@ -83,7 +83,7 @@
             </div>
         </div>
     </div>
-    <a href="#" onclick='alert("في الإصدار القادم صلواتكم")' class="db-block-{{GetDirection()}} ml-35 ml-xs-25">
+    <a href="#" onclick='alert("In new version")' class="db-block-{{GetDirection()}} ml-35 ml-xs-25">
         <div class="transform-center">{{ trans('main.donate') }}</div>
     </a>
     <a href="#" class="menu-bars db-none right-menu ml-35 ml-xs-25">
@@ -102,19 +102,19 @@
           <div class="fx-menu-header d-flex justify-content-between">
             <p class="rbt-slab fs-13 f-700">{{trans('main.dwam')}}</p>
             <div class="close-menu">
-              <a href="#" onclick='alert("في الإصدار القادم صلواتكم")' class=""> <span></span>
+              <a href="#" onclick='alert("In new version")' class=""> <span></span>
                 <span></span>
               </a>
             </div>
           </div>
-          <a href="#" onclick='alert("في الإصدار القادم صلواتكم")' class="btn btn-black mt-30 mb-35 mb-xs-20">{{ trans('main.donate') }}</a>
+          <a href="#" onclick='alert("Sorry in new Version")' class="btn btn-black mt-30 mb-35 mb-xs-20">{{ trans('main.donate') }}</a>
           <div class="fx-menu-content mb-15" >
             <ul class="fx-menu-links rbt-slab txt-{{GetDirection()}}">
               <!-- <li> <a href="#" >{{ trans('main.home') }}</a>
               </li> -->
               <li> <a href="{{ url("/vposts/index") }}" class="has-sub" >{{ trans('main.videos') }}</a>
                 <ul class="submenu">
-                  <li class="mg-nav-item nav-link"  dir="ltr"> <a href="#" onclick='alert("قريباً في الإصدار القادم")'>{{ trans('main.live_videos') }}</a></li>
+                  <li class="mg-nav-item nav-link"  dir="ltr"> <a href="#" onclick='alert("In new version")'>{{ trans('main.live_videos') }}</a></li>
                   @foreach($vcats as $vcat)
                   <li class="mg-nav-item nav-link"   dir="ltr"> <a href="{{ url("/vcatposts/show/{$vcat->id}") }}">
                     @if(GetLanguage() == 'en')
@@ -150,7 +150,8 @@
             <li class="nav-link">
               <!-- <a style="float:  {{ GetLanguage() == 'en' ? 'left' : 'right' }} ; position: absolute;  {{ GetLanguage() != 'en' ? 'left' : 'right' }} : 30px; top: {{ $errors->count() ? '108px' : '37px' }}; text-decoration: none" href="{{ url('/lang/ar') }}"> -->
 
-              <a href="{{ url('/lang/ar') }}"><span class="avia-bullet"></span><span class="avia-menu-text">
+              <!-- <a href="{{ url('/lang/ar') }}"><span class="avia-bullet"></span><span class="avia-menu-text"> -->
+              <a href="" onclick='alert("Sorry In new version")'><span class="avia-bullet"></span><span class="avia-menu-text">
                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAYAAAB24g05AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAPwAAAD8BR5eJ4AAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAEOSURBVCiRpZHNSsNQEEbPTXOtoc1NmyhFK6ioCLXioq4UdOtz+Ia+g+7cFQURhYClikRtqGkTm8SFbkrSWHC23w9nZgTnnZR/jFYkiiRFJMX9+izBSRbZ6ks0BPcrEZ42np+g7SuOqiFi/xUOXji1Qtq+mo/ACSW2GvJsN9DkElEy4UH2qdeGOCOJV/4qJmhqJgsqpLNzzHLFpqEcTlpnKCugqZl/E/SiAU5osWkZGHINfxSwrgS3I4teNAA57ReZN6Zw+GlTW/XY3t0A4PHO5e2pzrX5DmK6IHtEAV3jAzXew70UuFeC6rhFtzLIhHNXAAhLCRfBDaXyjxwHE2I9Jz2rACDWBTHxrys/DPAN4YpPXyWy3BoAAAAASUVORK5CYII=" title="English" alt="English"> {{ ' عربي ' }} <i class="fa fa-globe"></i>
               </a>
             </li>

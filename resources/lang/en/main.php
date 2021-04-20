@@ -844,7 +844,7 @@ return [
     'insta'                        => 'Insta Link',
     // Front End Area
     // Header
-    'dwam'                         => 'D.W.A.M',
+    'dwam'                         => 'S.A.L.A.A.M',
     'home'                         => 'HOME',
     'videos'                       => 'VIDEOS',
     'live_videos'                  => 'LIVE VIDEOS',
@@ -857,155 +857,116 @@ return [
 
 
     // Banner Start
-    'txt1'                         => 'Doctors',
-    'txt2'                         => 'With A Mission',
-    'txt3'                         => '(DWAM)',
-    'txt4'                         => 'An Egyptian, Christian Medical, a multi-specialty group united to proclaim Jesus Christ
-                                       DWAM was started in 2007, by a group of committed Christian Egyptian health care workers.',
+    'txt1'                         => 'Children are the',
+    'txt2'                         => 'owners of the future',
+    'txt3'                         => 'we invest in their lives',
+    'txt4'                         => 'Children are the owners of the future, and what we invest now in their lives will be harvested in the future.  As we plant love and peace, we believe that God will use everything we invest in their lives as they grow up.',
     'banner_button1'               => 'CONNECT WITH US',
 
-    'txt11'                         => '',
-    'txt22'                         => 'Vision',
-    'txt33'                         => '',
-    'txt44'                         => 'Reach unreached people in Egypt, the Middle East, and Africa, and encourage others to do the same.',
+    'txt11'                         => 'Activities for',
+    'txt22'                         => 'kids and their families',
+    'txt33'                         => 'to help cultural adjustments',
+    'txt44'                         => 'We want to build long-term relationships with the refugee families and be available to them.',
 
 
-    'txt111'                         => '',
-    'txt222'                         => 'Mission',
-    'txt333'                         => '',
-    'txt444'                         => 'Training, equipping, and serving Christian health care workers to reach others.',
+    'txt111'                         => 'Open to receive refugees',
+    'txt222'                         => 'Day-to-Day Help',
+    'txt333'                         => 'weekdays from 8-5:00',
+    'txt444'                         => 'The director and volunteers assist the refugees with a wide range of issues, including help with paperwork (social services, MVA, school forms, etc.), making appointments, applying to rent housing or applying for jobs, and addressing various other needs.',
 
 
-    'txt1111'                         => '',
-    'txt2222'                         => 'Application',
-    'txt3333'                         => '',
-    'txt4444'                         => 'Spiritual meetings in multiple governorates of Egypt and other Arab and African countries.',
+    'txt1111'                         => 'Offers',
+    'txt2222'                         => 'EN/Citizenship Classes',
+    'txt3333'                         => 'strengthen communication skills',
+    'txt4444'                         => 'Citizenship classes are available for the refugees who are reaching their eligibility date to apply for citizenship.  Classes used to all be in-person, but many are now available with teachers online.',
 
-    'txt11111'                         => '',
-    'txt22222'                         => 'Application',
-    'txt33333'                         => '',
-    'txt44444'                         => 'Annual Conference for health care l workers from Egypt and the Arab region which encourages attendees to shine as light in the darkness',
+    'txt11111'                         => 'Because children',
+    'txt22222'                         => 'Encouraging Education',
+    'txt33333'                         => 'is important in their development and acculturation',
+    'txt44444'                         => 'we provide book bags and school supplies for the different grade levels as they begin a new school year.',
 
-    'txt111111'                         => '',
-    'txt222222'                         => 'Application',
-    'txt333333'                         => '',
-    'txt444444'                         => 'Scientific training courses in Christian hospitals by physicians distinguished scientifically and spiritually, both Egyptian and foreigners from the UK and USA.',
+    'txt111111'                         => 'Throughout the year responds',
+    'txt222222'                         => 'Meeting Tangible Needs',
+    'txt333333'                         => 'to physical needs of the refugees',
+    'txt444444'                         => 'This varies from providing a food basket of staples and treats to each of the families at Christmas to helping meet specific needs of different families throughout the year for food, hygiene items, clothing, baby items, etc.',
 
-    'txt1111111'                         => '',
-    'txt2222222'                         => 'Application',
-    'txt3333333'                         => '',
-    'txt4444444'                         => 'Short term mission trips to Arab and African countries.',
-
-    'txt11111111'                         => '',
-    'txt22222222'                         => 'Application',
-    'txt33333333'                         => '',
-    'txt44444444'                         => 'Support of long-term missionary physicians spiritually and financially.',
-
-    'txt111111111'                         => 'you can support',
-    'txt222222222'                         => 'DWAM',
-    'txt333333333'                         => 'in the following ways:',
-    'txt444444444'                         => 'PRAY & ACT.',
-
-    'txt1111111111'                         => '',
-    'txt2222222222'                         => 'PRAY',
-    'txt3333333333'                         => '',
-    'txt4444444444'                         => 'Everyone can partner with us in prayer!',
-
-    'txt11111111111'                         => '',
-    'txt22222222222'                         => 'PRAY',
-    'txt33333333333'                         => '',
-    'txt44444444444'                         => 'Please pray specifically for Continued support of spiritual and scientific training.',
-
-    'txt111111111111'                         => '',
-    'txt222222222222'                         => 'ACT',
-    'txt333333333333'                         => '',
-    'txt444444444444'                         => 'Are you a Christian doctor? Do you have a passion for people in the Middle East?',
-
-    'txt1111111111111'                         => '',
-    'txt2222222222222'                         => 'ACT',
-    'txt3333333333333'                         => '',
-    'txt4444444444444'                         => 'Do you have medical experience from a scientific basis?',
-
-    'txt11111111111111'                         => '',
-    'txt22222222222222'                         => 'Act',
-    'txt33333333333333'                         => '',
-    'txt44444444444444'                         => 'Join us to train physicians and students or go on a short-term trip yourself!',
 
 
 
     // history
-    'history'                          => 'During the past 14 years,
+    'history'                          => 'During the past 15 years,
                                            the Lord honored us with:',
-    'his_desc1'                        => 'Meetings in various Egyptian governorates, which were attended by nearly 4000 medical workers over 4 years- Thirteen annual spiritual conferences attended by about 4800 medical field workers in Egypt and the Arab region.',
-    'his_year1'                        => '2007',
-    'his_bold1'                        => 'Established',
+    'his_desc1'                        => 'Began operating in 2016 in its small storefront in Highlandtown, an east Baltimore neighborhood.  At the time, the Baltimore Resettlement Center was directly across the street, so it was easy for new refugees to find us.  The Arabic writing in our window was a welcome sight to many of them.',
+    'his_year1'                        => '2006',
+    'his_bold1'                        => 'Operating',
 
-    'his_desc2'                        => 'Two prayer conferences attended by 100 medical field workers in Egypt - Three spiritual conferences for medical college students attended by 130 trainees.',
-    'his_year2'                        => '2007',
-    'his_bold2'                        => 'Established',
+    'his_desc2'                        => 'Many of the Muslim and Arabic-speaking refugees that came to Baltimore were settled in Moravia, a neighborhood just northeast of the Center, and Dundalk, a neighborhood nearby in southeast Baltimore.  Even though the Baltimore Resettlement Center moved in 2019, Highlandtown continues to be a good location for the Center.',
+    'his_year2'                        => '2006',
+    'his_bold2'                        => 'Operating',
 
-    'his_desc3'                        => 'Eight courses taught at medical schools attended by 27 trainees - Fifteen scientific courses in various medical specialties attended by 70 trainees.',
-    'his_year3'                        => '2007',
-    'his_bold3'                        => 'Established',
+    'his_desc3'                        => 'The refugee community served by the Salaam Center has changed somewhat since we began.  In 2016, many of the refugees who found their way to us were originally from Syria.  Since that time, we have had the opportunity to serve people from a wider range of Middle Eastern and African countries.',
+    'his_year3'                        => '2006',
+    'his_bold3'                        => 'Operating',
 
-    'his_desc4'                        => '103  short mission trips outside of Egypt Three full time physician missionaries outside of Egypt.',
-    'his_year4'                        => '2007',
-    'his_bold4'                        => 'Established',
+    'his_desc4'                        => 'Many of the people we serve had been displaced from their countries prior to coming to the U.S. Quite a few of them spent time in refugee camps in the Middle East or Africa, and some of the children were born in refugee camps.',
+    'his_year4'                        => '2006',
+    'his_bold4'                        => 'Operating',
 
     // Audio
-    'audio_title'                      => 'Name of Jesus is the best name.(Nassef Sobhy)',
-    'audio_desc'                       => 'DWAM Conference 2019.',
+    'audio_title'                      => 'Eastern music',
+    'audio_desc'                       => 'Masterpieces of original art',
 
     // Work Gallery
-    'work1'                            => 'D.W.A.M',
+    'work1'                            => 'S.A.L.A.A.M CENTER',
     'work_desc'                        => '“Reach unreached people in Egypt, the Middle East, and Africa, and encourage others to do the same.” ',
 
     // About me
-    'exper_age'                        => '35',
+    'exper_age'                        => '16',
     'exper_txt'                        => 'Years of Experience',
-    'me_name'                          => 'Maher Samuel',
-    'me_desc'                          => 'I graduated from the Faculty of Medicine - Alexandria University with a diploma in brain diseases Neurology and psychiatry are from the same university. Many programs offer on Most Christian channels..',
-    'me_why'                           => 'Why Choose D.W.A.M.?',
-    'reson1'                           => 'First Reason.',
-    'reson2'                           => 'Second Reason.',
-    'reson3'                           => 'Third Reason.',
-    'reson4'                           => 'Fourth Reason.',
+    'me_name'                          => 'S.A.L.A.A.M CENTER',
+    'me_desc'                          => 'The Salaam Center is a refugee service center that works with local churches to declare the light of God’s love for all. It provides practical assistance to refugees by helping them adjust to their new lives in America. It seeks to make God’s character known to Arabic speakers by building relationships, and serving and fostering community among them.',
+    'me_why'                           => 'Why Choose S.A.L.A.A.M CENTER?',
+    'reson1'                           => '1. Carries the gospel message to the refugees it serves.',
+    'reson2'                           => '2. Makes known God’s character by sharing a message of hope, love and light.',
+    'reson3'                           => '3. Demonstrates God’s love in practical ways by helping with English lessons, food, clothing,',
+    'reson4'                           => '4. Invests in children’s lives in order to create a righteous generation that loves God and others.',
+    'reson5'                           => '5. Works with churches to accomplish the Great Commission of Mat28.',
 
     // Live Video
     'live_video'                       => 'Promo VIDEO',
-    'video_txt'                        => 'D.W.A.M Video',
-    'video_desc'                       => 'Videos Shots collected from D.W.A.M conferences videos',
+    'video_txt'                        => 'S.A.L.A.A.M CENTER Video',
+    'video_desc'                       => 'Videos Shots collected from S.A.L.A.A.M CENTER camps videos',
 
 
     // Members
     'member_says'                         => 'What our Members Says',
     'member_share'                        => 'Share Opinion',
-    'member_title1'                       => 'D.W.A.M. is the Best',
-    'member_txt1'                         => 'I visited other sites but I cant find enjoying like D.W.A.M site, please go on and continue to develop ideas and features.',
+    'member_title1'                       => 'S.A.L.A.A.M. is the Best',
+    'member_txt1'                         => 'I visited other sites but I cant find enjoying like S.A.L.A.A.M site, please go on and continue to develop ideas and features.',
     'member_who1'                         => 'David Joe',
-    'member_job1'                         => 'CEO, Abc Company',
+    'member_job1'                         => 'CEO, Olash Company',
     'member_title2'                       => '100% Recommended',
-    'member_txt2'                         => 'I visited other sites but I cant find enjoying like D.W.A.M site, please go on and continue to develop ideas and features.',
-    'member_who2'                         => 'David Joe',
-    'member_job2'                         => 'CEO, Abc Company',
+    'member_txt2'                         => 'I tried to search for an organization to help me in my mission but i can not find untill I met pastor Reda who responsible of Salam Center',
+    'member_who2'                         => 'Michaek Makin',
+    'member_job2'                         => 'Syria, Takawi Mission',
     'member_title3'                       => '100% Recommended',
-    'member_txt3'                         => 'I visited other sites but I cant find enjoying like D.W.A.M site, please go on and continue to develop ideas and features.',
-    'member_who3'                         => 'David Joe',
-    'member_job3'                         => 'CEO, Abc Company',
+    'member_txt3'                         => 'Really I noticed each child interact with Salam Center Baltimore has possitive effects with them, really all team are very good',
+    'member_who3'                         => 'Marian Mofreh',
+    'member_job3'                         => 'Tailer, Suez Canal bank',
     'member_title4'                       => '100% Recommended',
-    'member_txt4'                         => 'I visited other sites but I cant find enjoying like D.W.A.M site, please go on and continue to develop ideas and features.',
-    'member_who4'                         => 'David Joe',
-    'member_job4'                         => 'CEO, Abc Company',
+    'member_txt4'                         => 'I can not imagine there are people in this world with pure heart like Salam center baltimore team, really thanks God for this present.',
+    'member_who4'                         => 'Mario Adel',
+    'member_job4'                         => 'SE, Bombers Company',
 
     // EVENT
     'event'                               => 'Upcoming Event',
     'event_desc'                          => 'News & Conferences',
-    'event1'                              => 'DWAM ONLINE conference from 4 to 5 March – on  ZOOM....',
-    'event2'                              => 'DWAM Conference – Sant Mark Hotel – El Khatatba....',
-    'event3'                              => 'Many of our families vary in the value they place on education..',
-    'event4'                              => 'We help meet some of our families’ needs with free clothing and shoes..',
-    'event5'                              => 'We want to recognize the important role of women in the families and community..',
-    'event6'                              => 'Sports are often part of our activities for the families...',
+    'event1'                              => 'S.A.L.A.A.M CENTER hosting a Christmas Party for our Muslim refugee friends!',
+    'event2'                              => 'S.A.L.A.A.M CENTER hosting a Christmas Party for our Muslim refugee friends!',
+    'event3'                              => 'S.A.L.A.A.M CENTER hosting a Christmas Party for our Muslim refugee friends!',
+    'event4'                              => 'S.A.L.A.A.M CENTER hosting a Christmas Party for our Muslim refugee friends!',
+    'event5'                              => 'S.A.L.A.A.M CENTER hosting a Christmas Party for our Muslim refugee friends!',
+    'event6'                              => 'S.A.L.A.A.M CENTER hosting a Christmas Party for our Muslim refugee friends!',
 
     // Connect area
     'connect_area'                        => 'Not A Member? Connect With Us..',
@@ -1013,8 +974,8 @@ return [
 
     // Footer
     'about'                               => 'About Us',
-    'about_desc1'                         => 'D.W.A.M is An Egyptian, Christian Medical, a multi-specialty group united to proclaim Jesus Christ.',
-    'about_desc2'                         => 'D.W.A.M was started in 2007, by a group of committed Christian Egyptian health care workers.',
+    'about_desc1'                         => 'S.A.L.A.A.M CENTER is dedicated to serve fellow Middle Eastern refugees, immigrants, and asylum seekers who have made the great city of Baltimore their new home.',
+    'about_desc2'                         => 'S.A.L.A.A.M CENTER We want to build long-term relationships with the refugee families and be available to them.',
     'read_more'                           => 'Read More',
     'contact'                             => 'Contact US',
     'terms'                               => 'Terms',
@@ -1034,7 +995,7 @@ return [
     'call'                                =>'Call US',
     'send_mail'                           =>'SEND A MAIL',
     'our_add'                             =>'OUR ADDRESS',
-    'full_add'                            =>'41  Abou Dawoud Al Zaheri, Manteqah as Sadesah, Nasr City, Cairo',
+    'full_add'                            =>'427 S. Conklin Street Baltimore,   MD 21224',
     'send_message'                        =>'Send Us a Message',
     'your_message'                        =>'Your message',
     'contact_mgs_send'                    =>'Your message send successfully',
@@ -1045,43 +1006,23 @@ return [
     // about us
     'about_title'                         =>'Training, equipping, and serving Christian health care workers to reach others',
     'about_desc'                          =>'Reach unreached people in Egypt, the Middle East, and Africa, and encourage others to do the same',
-    'about_desc_right'                    =>'An Egyptian, Christian Medical, a multi-specialty group united to proclaim Jesus Christ DWAM was started in 2007, by a group of committed Christian Egyptian health care workers.',
+    'about_desc_right'                    =>'An Egyptian, Christian Medical, a multi-specialty group united to proclaim Jesus Christ S.A.L.A.A.M CENTER was started in 2007, by a group of committed Christian Egyptian health care workers.',
     'about_desc_left'                     =>'Annual Conference for health care l workers from Egypt and the Arab region which encourages attendees to shine as light in the darkness',
     'about_desc_left2'                    =>'Scientific training courses in Christian hospitals by physicians distinguished scientifically and spiritually, both Egyptian and foreigners from the UK and USA',
-    'about_video_title'                   =>'D.W.A.M',
-    'about_video_desc'                    =>'you can support DWAM in the following ways: PRAY & ACT',
+    'about_video_title'                   =>'S.A.L.A.A.M',
+    'about_video_desc'                    =>'you can support S.A.L.A.A.M CENTER in the following ways: PRAY & ACT',
     'about_pastor_txt_back'               =>'Everyone can partner with us in prayer!',
     'about_pastor_txt_title'              =>'PRAY',
     'view_all'                            =>'VIEW ALL',
-    'about_pastor1'                       =>'DR. Maher Samuel',
-    'about_pastor1_role'                  =>'Leader',
-    'about_pastor2'                       =>'DR. Ehab Ayoub',
-    'about_pastor2_role'                  =>'Leader',
-    'about_pastor3'                       =>'DR. Andrew Magdy',
-    'about_pastor3_role'                  =>'Leader',
-    'about_pastor4'                       =>'Eng. Fady Wadie',
-    'about_pastor4_role'                  =>'Leader',
+    'about_pastor1'                       =>'Pastor. Reda Narouz',
+    'about_pastor1_role'                  =>'Salaam Center, Baltimore, 443-787-8070',
+    'about_pastor2'                       =>'MS. Jane Mitchell',
+    'about_pastor2_role'                  =>'Salaam Center, Baltimore',
+    'about_pastor3'                       =>'Mr. Kenneth Williams',
+    'about_pastor3_role'                  =>'Salaam Center, Baltimore',
     'about_squre1'                        =>'Worshiped with ',
     'about_num'                           =>' 300',
     'about_squre2'                        =>'+ Members',
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
