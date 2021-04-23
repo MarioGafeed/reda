@@ -296,7 +296,7 @@
                                   <li>Baltimore</li>
                                 </ul>
                                 <h4 class="mb-10"><a href="#" onclick='alert("In new version")' class="fs-25 f-700 white hover-white">Events</a></h4>
-                                <p class=" white">Each year, DWAM give you a new EVENT.</p>
+                                <p class=" white">Each year, S.A.L.A.A.M C.E.N.T.E.R give you a new EVENT.</p>
                             </div>
                         </div>
                     </div>
@@ -315,7 +315,7 @@
                                   <li>Baltimore</li>
                                 </ul>
                                 <h4 class="mb-10"><a href="{{ url("/posts/index") }}" class="fs-25 f-700 white hover-white">Blog</a></h4>
-                                <p class=" white">Enjoy DWAM Blogs and interact with comments.</p>
+                                <p class=" white">Enjoy S.A.L.A.A.M C.E.N.T.E.R Blogs and interact with comments.</p>
                             </div>
                         </div>
                     </div>
@@ -334,7 +334,7 @@
                                   <li>Baltimore</li>
                                 </ul>
                                 <h4 class="mb-10"><a href="#" onclick='Alert("In new version")' class="fs-25 f-700 white hover-white">Services</a></h4>
-                                <p class=" white">Enjoy DWAM Services and interact with us.</p>
+                                <p class=" white">Enjoy S.A.L.A.A.M C.E.N.T.E.R Services and interact with us.</p>
                             </div>
                         </div>
                     </div>
@@ -372,7 +372,7 @@
                                   <li>Baltimore</li>
                                 </ul>
                                 <h4 class="mb-10"><a href="#"  onclick='alert("In new version")'  class="fs-25 f-700 white hover-white">Our Members</a></h4>
-                                <p class=" white">Enjoy DWAM society with interacting us.</p>
+                                <p class=" white">Enjoy S.A.L.A.A.M C.E.N.T.E.R society with interacting us.</p>
                             </div>
                         </div>
                     </div>
