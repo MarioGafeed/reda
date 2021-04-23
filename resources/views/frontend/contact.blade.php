@@ -47,7 +47,7 @@
                     <div class="ctnct-info-icon"> <i class="fas fa-envelope"></i>
                     </div>
                     <h5 class="fs-12 f-500 mb-10">{{ trans('main.send_mail') }}</h5>
-                    <p class="bld-text"> <a href="#" class="fs-16 f-500">dwam@salaamcenterbaltimore.com</a>
+                    <p class="bld-text"> <a href="#" class="fs-16 f-500">reda@salaamcenterbaltimore.com</a>
                         <a href="#" class="fs-16 f-500">contact@salaamcenterbaltimore.com</a>
                     </p>
                 </div>
