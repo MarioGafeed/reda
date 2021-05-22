@@ -345,7 +345,7 @@ return [
     'bottom'              => 'Bottom',
     'bottom-right'        => 'Bottom Right',
     'arabic'              => 'Arabic',
-    'E'             => 'E',
+    'E'                   => 'E',
     'agent_calls'         => 'Agent Calls',
     'agent_meetings'      => 'Agent Meetings',
     'num_calls'           => 'Calls Number',
@@ -857,38 +857,44 @@ return [
 
 
     // Banner Start
-    'txt1'                         => 'Children are the',
-    'txt2'                         => 'owners of the future',
-    'txt3'                         => 'we invest in their lives',
-    'txt4'                         => 'Children are the owners of the future, and what we invest now in their lives will be harvested in the future.  As we plant love and peace, we believe that God will use everything we invest in their lives as they grow up.',
+    'txt1'                         => 'Throughout the year responds',
+    'txt2'                         => 'Meeting Tangible Needs',
+    'txt3'                         => 'to physical needs of the refugees',
+    'txt4'                         => 'This varies from providing a food basket of staples and treats to each of the families at Christmas to helping meet specific needs of different families throughout the year for food, hygiene items, clothing, baby items, etc.',
+
     'banner_button1'               => 'CONNECT WITH US',
 
-    'txt11'                         => 'Activities for',
-    'txt22'                         => 'kids and their families',
-    'txt33'                         => 'to help cultural adjustments',
-    'txt44'                         => 'We want to build long-term relationships with the refugee families and be available to them.',
+    'txt11'                         => 'Children are the owners of the',
+    'txt22'                         => 'future',
+    'txt33'                         => 'and what we invest now in them',
+    'txt44'                         => 'As we plant love and peace, we believe that God will use everything we invest in their lives as they grow up.',
 
 
-    'txt111'                         => 'Open to receive refugees',
-    'txt222'                         => 'Day-to-Day Help',
-    'txt333'                         => 'weekdays from 8-5:00',
-    'txt444'                         => 'The director and volunteers assist the refugees with a wide range of issues, including help with paperwork (social services, MVA, school forms, etc.), making appointments, applying to rent housing or applying for jobs, and addressing various other needs.',
+    'txt111'                         => 'Volunteers are at the Center daily',
+    'txt222'                         => 'to help',
+    'txt333'                         => 'with questions,',
+    'txt444'                         => 'mail, making appointments, etc. Sometimes a friendly face and a listening ear are the most important help.',
 
 
-    'txt1111'                         => 'Offers',
-    'txt2222'                         => 'EN/Citizenship Classes',
-    'txt3333'                         => 'strengthen communication skills',
-    'txt4444'                         => 'Citizenship classes are available for the refugees who are reaching their eligibility date to apply for citizenship.  Classes used to all be in-person, but many are now available with teachers online.',
+    'txt1111'                         => 'We provide',
+    'txt2222'                         => 'Bookbags & School Supplies',
+    'txt3333'                         => 'to help get the kids ready for the new school year',
+    'txt4444'                         => 'Many of our families vary in the value they place on education.',
 
-    'txt11111'                         => 'Because children',
-    'txt22222'                         => 'Encouraging Education',
-    'txt33333'                         => 'is important in their development and acculturation',
-    'txt44444'                         => 'we provide book bags and school supplies for the different grade levels as they begin a new school year.',
+    'txt11111'                         => 'Christmas Party',
+    'txt22222'                         => 'Most of our families',
+    'txt33333'                         => 'look forward',
+    'txt44444'                         => 'We have the opportunity to share the Christmas story, music, food and friendships.',
 
-    'txt111111'                         => 'Throughout the year responds',
-    'txt222222'                         => 'Meeting Tangible Needs',
-    'txt333333'                         => 'to physical needs of the refugees',
-    'txt444444'                         => 'This varies from providing a food basket of staples and treats to each of the families at Christmas to helping meet specific needs of different families throughout the year for food, hygiene items, clothing, baby items, etc.',
+    'txt111111'                         => 'We open to receive refugees',
+    'txt222222'                         => 'Day-to-Day Help',
+    'txt333333'                         => 'for appointments on weekdays from 8-5:00',
+    'txt444444'                         => 'Director and volunteers assist the refugees with a wide range of issues, including help with paperwork (social services, MVA, school forms, etc.), making appointments, applying to rent housing or applying for jobs, and addressing various other needs.',
+
+    'txt1111111'                         => 'We offers English classes to help the refugees',
+    'txt2222222'                         => 'English/Citizenship Classes',
+    'txt3333333'                         => 'strengthen their communication skills.',
+    'txt4444444'                         => 'Citizenship classes are available for the refugees who are reaching their eligibility date to apply for citizenship.  Classes used to all be in-person, but many are now available with teachers online.',
 
 
 
@@ -917,8 +923,8 @@ return [
     'audio_desc'                       => 'Masterpieces of original art',
 
     // Work Gallery
-    'work1'                            => 'S.A.L.A.A.M CENTER',
-    'work_desc'                        => '“Reach unreached people in Egypt, the Middle East, and Africa, and encourage others to do the same.” ',
+    'work1'                            => 'S.A.L.A.A.M CENTER mission',
+    'work_desc'                        => '“works with churches to make God character known to the Arabic-speaking, Muslim population in Baltimore by building relationships, serving the families and fostering community among them.” ',
 
     // About me
     'exper_age'                        => '16',

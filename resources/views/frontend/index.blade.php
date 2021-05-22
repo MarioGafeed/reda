@@ -66,7 +66,7 @@
           </div>
 
           <div class="item">
-              <div class="each-slider-2 flex-center" style="background-image: url('frontend/assets/img/banner/banner-h3-4.jpg');" data-overlay="4">\
+              <div class="each-slider-2 flex-center" style="background-image: url('frontend/assets/img/banner/banner-h3-4.png');" data-overlay="4">\
               </div>
               <div class="banner-text">
                   <div class="container">
@@ -86,7 +86,7 @@
           </div>
 
           <div class="item">
-              <div class="each-slider-2 flex-center" style="background-image: url('frontend/assets/img/banner/banner-h3-5.jpg');" data-overlay="4">\
+              <div class="each-slider-2 flex-center" style="background-image: url('frontend/assets/img/banner/banner-h3-5.png');" data-overlay="4">\
               </div>
               <div class="banner-text">
                   <div class="container">
@@ -117,6 +117,26 @@
                                   <div class="main-banner-texts">
                                       <h1 class="f-700">{{ trans('main.txt111111') }}   <span class="yellow">{{ trans('main.txt222222') }}</span> <span class="blk-spn">{{ trans('main.txt333333') }} </span></h1>
                                       <p class="fs-15">{{ trans('main.txt444444') }}</p> <a href="/contact" class="btn btn-border-out z-5">{{ trans('main.banner_button1') }}</a>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+
+          <div class="item">
+              <div class="each-slider-2 flex-center" style="background-image: url('frontend/assets/img/banner/banner-h3-7.png');" data-overlay="4">\
+              </div>
+              <div class="banner-text">
+                  <div class="container">
+                      <div class="row">
+                          <div class="col-lg-12 text-center">
+                              <div class="banner-content-3 white z-10"> <span class="frame-top"></span>
+                                  <span class="frame-bottom"></span>
+                                  <div class="main-banner-texts">
+                                      <h1 class="f-700">{{ trans('main.txt1111111') }}   <span class="yellow">{{ trans('main.txt2222222') }}</span> <span class="blk-spn">{{ trans('main.txt3333333') }} </span></h1>
+                                      <p class="fs-15">{{ trans('main.txt4444444') }}</p> <a href="/contact" class="btn btn-border-out z-5">{{ trans('main.banner_button1') }}</a>
                                   </div>
                               </div>
                           </div>
