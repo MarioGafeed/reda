@@ -900,7 +900,7 @@ return [
 
 
     // history
-    'history'                          => 'During the past 15 years,
+    'history'                          => 'During the past 5 years,
                                            the Lord honored us with:',
     'his_desc1'                        => 'Began operating in 2016 in its small storefront in Highlandtown, an east Baltimore neighborhood.  At the time, the Baltimore Resettlement Center was directly across the street, so it was easy for new refugees to find us.  The Arabic writing in our window was a welcome sight to many of them.',
     'his_year1'                        => '2006',
