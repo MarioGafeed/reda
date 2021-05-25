@@ -6,7 +6,7 @@
     <section class="slider-2 relative">
         <div class="owl-carousel owl-theme main-slider" dir="ltr">
           <div class="item">
-              <div class="each-slider-2 flex-center" style="background-image: url('frontend/assets/img/banner/banner-h3-1.jpg');" data-overlay="4">\
+              <div class="each-slider-2 flex-center" style="background-image: url('frontend/assets/img/banner/banner-h3-1.png');" data-overlay="4">\
               </div>
               <div class="banner-text">
                   <div class="container">
@@ -26,7 +26,7 @@
           </div>
 
           <div class="item">
-              <div class="each-slider-2 flex-center" style="background-image: url('frontend/assets/img/banner/banner-h3-2.jpg');" data-overlay="4">\
+              <div class="each-slider-2 flex-center" style="background-image: url('frontend/assets/img/banner/banner-h3-2.png');" data-overlay="4">\
               </div>
               <div class="banner-text">
                   <div class="container">
