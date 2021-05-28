@@ -6,7 +6,7 @@
     <section class="slider-2 relative">
         <div class="owl-carousel owl-theme main-slider" dir="ltr">
           <div class="item">
-              <div class="each-slider-2 flex-center" style="background-image: url('frontend/assets/img/banner/banner-h3-1.png');" data-overlay="4">\
+              <div class="each-slider-2 flex-center" style="background-image: url('frontend/assets/img/banner/banner-h3-1.jpg');" data-overlay="4">\
               </div>
               <div class="banner-text">
                   <div class="container">
@@ -26,13 +26,13 @@
           </div>
 
           <div class="item">
-              <div class="each-slider-2 flex-center" style="background-image: url('frontend/assets/img/banner/banner-h3-2.png');" data-overlay="4">\
+              <div class="each-slider-2 flex-center" style="background-image: url('frontend/assets/img/banner/banner-h3-2.jpg');" data-overlay="4">\
               </div>
               <div class="banner-text">
                   <div class="container">
                       <div class="row">
                           <div class="col-lg-12 text-center">
-                              <div class="banner-content-3 white z-10"> <span class="frame-top"></span>
+                            <div class="banner-content-3 white z-10"> <span class="frame-top"></span>
                                   <span class="frame-bottom"></span>
                                   <div class="main-banner-texts">
                                       <h1 class="f-700">{{ trans('main.txt11') }}   <span class="yellow">{{ trans('main.txt22') }}</span> <span class="blk-spn">{{ trans('main.txt33') }} </span></h1>
@@ -46,7 +46,7 @@
           </div>
 
           <div class="item">
-              <div class="each-slider-2 flex-center" style="background-image: url('frontend/assets/img/banner/banner-h3-3.jpg');" data-overlay="4">\
+              <div class="each-slider-2 flex-center" style="background-image: url('frontend/assets/img/banner/banner-h3-3.png');" data-overlay="4">\
               </div>
               <div class="banner-text">
                   <div class="container">
@@ -106,7 +106,7 @@
           </div>
 
           <div class="item">
-              <div class="each-slider-2 flex-center" style="background-image: url('frontend/assets/img/banner/banner-h3-6.jpg');" data-overlay="4">\
+              <div class="each-slider-2 flex-center" style="background-image: url('frontend/assets/img/banner/banner-h3-6.png');" data-overlay="4">\
               </div>
               <div class="banner-text">
                   <div class="container">
@@ -274,7 +274,7 @@
                             </a>
                             <div class="work-text text-center">
                                 <ul class="category yellow">
-                                    <li>S.A.L.A.A.M C.E.N.T.E.R</li>
+                                    <li>Salaam C.E.N.T.E.R</li>
                                     <li>Baltimore</li>
                                 </ul>
                                 <h4 class="mb-10"><a href="{{ url("/vposts/index") }}" onclick='alert("In new version")' class="fs-25 f-700 white hover-white">Videos</a></h4>
@@ -293,7 +293,7 @@
                             </a>
                             <div class="work-text text-center">
                                 <ul class="category yellow">
-                                  <li>S.A.L.A.A.M C.E.N.T.E.R</li>
+                                  <li>Salaam C.E.N.T.E.R</li>
                                   <li>Baltimore</li>
                                 </ul>
                                 <h4 class="mb-10"><a href="{{ url("/vposts/index") }}" class="fs-25 f-700 white hover-white">Previous Video</a></h4>
@@ -312,11 +312,11 @@
                             </a>
                             <div class="work-text text-center">
                                 <ul class="category yellow">
-                                  <li>S.A.L.A.A.M C.E.N.T.E.R</li>
+                                  <li>Salaam C.E.N.T.E.R</li>
                                   <li>Baltimore</li>
                                 </ul>
                                 <h4 class="mb-10"><a href="#" onclick='alert("In new version")' class="fs-25 f-700 white hover-white">Events</a></h4>
-                                <p class=" white">Each year, S.A.L.A.A.M C.E.N.T.E.R give you a new EVENT.</p>
+                                <p class=" white">Each year, Salaam C.E.N.T.E.R give you a new EVENT.</p>
                             </div>
                         </div>
                     </div>
@@ -331,11 +331,11 @@
                             </a>
                             <div class="work-text text-center">
                                 <ul class="category yellow">
-                                  <li>S.A.L.A.A.M C.E.N.T.E.R</li>
+                                  <li>Salaam C.E.N.T.E.R</li>
                                   <li>Baltimore</li>
                                 </ul>
                                 <h4 class="mb-10"><a href="{{ url("/posts/index") }}" class="fs-25 f-700 white hover-white">Blog</a></h4>
-                                <p class=" white">Enjoy S.A.L.A.A.M C.E.N.T.E.R Blogs and interact with comments.</p>
+                                <p class=" white">Enjoy Salaam C.E.N.T.E.R Blogs and interact with comments.</p>
                             </div>
                         </div>
                     </div>
@@ -350,11 +350,11 @@
                             </a>
                             <div class="work-text text-center">
                                 <ul class="category yellow">
-                                  <li>S.A.L.A.A.M C.E.N.T.E.R</li>
+                                  <li>Salaam C.E.N.T.E.R</li>
                                   <li>Baltimore</li>
                                 </ul>
                                 <h4 class="mb-10"><a href="#" onclick='Alert("In new version")' class="fs-25 f-700 white hover-white">Services</a></h4>
-                                <p class=" white">Enjoy S.A.L.A.A.M C.E.N.T.E.R Services and interact with us.</p>
+                                <p class=" white">Enjoy Salaam C.E.N.T.E.R Services and interact with us.</p>
                             </div>
                         </div>
                     </div>
@@ -369,7 +369,7 @@
                             </a>
                             <div class="work-text text-center">
                                 <ul class="category yellow">
-                                  <li>S.A.L.A.A.M C.E.N.T.E.R</li>
+                                  <li>Salaam C.E.N.T.E.R</li>
                                   <li>Baltimore</li>
                                 </ul>
                                 <h4 class="mb-10"><a href="#" onclick='Alert("In new version")' class="fs-25 f-700 white hover-white">{{trans('main.donate')}}</a></h4>
@@ -388,11 +388,11 @@
                             </a>
                             <div class="work-text text-center">
                                 <ul class="category yellow">
-                                  <li>S.A.L.A.A.M C.E.N.T.E.R</li>
+                                  <li>Salaam C.E.N.T.E.R</li>
                                   <li>Baltimore</li>
                                 </ul>
                                 <h4 class="mb-10"><a href="#"  onclick='alert("In new version")'  class="fs-25 f-700 white hover-white">Our Members</a></h4>
-                                <p class=" white">Enjoy S.A.L.A.A.M C.E.N.T.E.R society with interacting us.</p>
+                                <p class=" white">Enjoy Salaam C.E.N.T.E.R society with interacting us.</p>
                             </div>
                         </div>
                     </div>
@@ -407,7 +407,7 @@
                             </a>
                             <div class="work-text text-center">
                                 <ul class="category yellow">
-                                  <li>S.A.L.A.A.M C.E.N.T.E.R</li>
+                                  <li>Salaam C.E.N.T.E.R</li>
                                   <li>Baltimore</li>
                                 </ul>
                                 <h4 class="mb-10"><a href="#" onclick='alert("In new version")' class="fs-25 f-700 white hover-white">Our Partners</a></h4>
@@ -426,7 +426,7 @@
                             </a>
                             <div class="work-text text-center">
                                 <ul class="category yellow">
-                                  <li>S.A.L.A.A.M C.E.N.T.E.R</li>
+                                  <li>Salaam C.E.N.T.E.R</li>
                                   <li>Baltimore</li>
                                 </ul>
                                 <h4 class="mb-10"><a href="{{ url("/about") }}" class="fs-25 f-700 white hover-white">About Us</a></h4>
@@ -446,7 +446,7 @@
                             <div class="work-text text-center">
                                 <ul class="category yellow">
                                   <li>Volunteer Leader</li>
-                                  <li>S.A.L.A.A.M C.E.N.T.E.R Baltimore</li>
+                                  <li>Salaam C.E.N.T.E.R Baltimore</li>
                                 </ul>
                                 <h4 class="mb-10"><a href="#" onclick='alert("In new version")' class="fs-25 f-700 white hover-white">About responsible</a></h4>
                                 <p class=" white">Head Coordinator Reda Narouz.</p>
@@ -464,7 +464,7 @@
                             </a>
                             <div class="work-text text-center">
                                 <ul class="category yellow">
-                                  <li>S.A.L.A.A.M C.E.N.T.E.R</li>
+                                  <li>Salaam C.E.N.T.E.R</li>
                                   <li>Baltimore</li>
                                 </ul>
                                 <h4 class="mb-10"><a href="#" onclick='alert("In new version")' class="fs-25 f-700 white hover-white">Shop</a></h4>
@@ -483,7 +483,7 @@
                             </a>
                             <div class="work-text text-center">
                                 <ul class="category yellow">
-                                  <li>S.A.L.A.A.M C.E.N.T.E.R</li>
+                                  <li>Salaam C.E.N.T.E.R</li>
                                   <li>Baltimore</li>
                                 </ul>
                                 <h4 class="mb-10"><a href="#" onclick='alert("In new version")' class="fs-25 f-700 white hover-white">Verses</a></h4>
@@ -502,7 +502,7 @@
                             </a>
                             <div class="work-text text-center">
                                 <ul class="category yellow">
-                                  <li>S.A.L.A.A.M C.E.N.T.E.R</li>
+                                  <li>Salaam C.E.N.T.E.R</li>
                                   <li>Baltimore</li>
                                 </ul>
                                 <h4 class="mb-10"><a href="#" onclick='alert("In new version")' class="fs-25 f-700 white hover-white">News</a></h4>
@@ -521,7 +521,7 @@
                             </a>
                             <div class="work-text text-center">
                                 <ul class="category yellow">
-                                  <li>S.A.L.A.A.M C.E.N.T.E.R</li>
+                                  <li>Salaam C.E.N.T.E.R</li>
                                   <li>Baltimore</li>
                                 </ul>
                                 <h4 class="mb-10"><a href="{{ url("/contact") }}" class="fs-25 f-700 white hover-white">Connect</a></h4>
@@ -540,7 +540,7 @@
                             </a>
                             <div class="work-text text-center">
                                 <ul class="category yellow">
-                                  <li>S.A.L.A.A.M C.E.N.T.E.R</li>
+                                  <li>Salaam C.E.N.T.E.R</li>
                                   <li>Baltimore</li>
                                 </ul>
                                 <h4 class="mb-10"><a href="{{ url("/contact") }}" class="fs-25 f-700 white hover-white">Ask A Question</a></h4>
@@ -559,7 +559,7 @@
                             </a>
                             <div class="work-text text-center">
                                 <ul class="category yellow">
-                                  <li>S.A.L.A.A.M C.E.N.T.E.R</li>
+                                  <li>Salaam C.E.N.T.E.R</li>
                                   <li>Baltimore</li>
                                 </ul>
                                 <h4 class="mb-10"><a href="#" onclick='alert("In new version")' class="fs-25 f-700 white hover-white">Socialize</a></h4>

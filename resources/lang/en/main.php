@@ -14,7 +14,7 @@ return [
     'create_account'      => 'Create New Account',
     'back'                => 'Back',
     'submit_password'     => 'Reset Password',
-    'reset_password'       => 'Reset Password',
+    'reset_password'      => 'Reset Password',
     'forget_message'      => 'Enter your e-mail address below to reset your password.',
     'fails_login'         => 'Please check your email or password.',
     'close'               => 'Close',
@@ -844,7 +844,7 @@ return [
     'insta'                        => 'Insta Link',
     // Front End Area
     // Header
-    'dwam'                         => 'S.A.L.A.A.M',
+    'dwam'                         => 'Salaam',
     'home'                         => 'HOME',
     'videos'                       => 'VIDEOS',
     'live_videos'                  => 'LIVE VIDEOS',
@@ -923,15 +923,15 @@ return [
     'audio_desc'                       => 'Masterpieces of original art',
 
     // Work Gallery
-    'work1'                            => 'S.A.L.A.A.M CENTER mission',
+    'work1'                            => 'Salaam CENTER vision',
     'work_desc'                        => '“works with churches to make God character known to the Arabic-speaking, Muslim population in Baltimore by building relationships, serving the families and fostering community among them.” ',
 
     // About me
-    'exper_age'                        => '16',
+    'exper_age'                        => '15',
     'exper_txt'                        => 'Years of Experience',
-    'me_name'                          => 'S.A.L.A.A.M CENTER',
+    'me_name'                          => 'Salaam CENTER',
     'me_desc'                          => 'The Salaam Center is a refugee service center that works with local churches to declare the light of God’s love for all. It provides practical assistance to refugees by helping them adjust to their new lives in America. It seeks to make God’s character known to Arabic speakers by building relationships, and serving and fostering community among them.',
-    'me_why'                           => 'Why Choose S.A.L.A.A.M CENTER?',
+    'me_why'                           => 'Why Choose Salaam CENTER?',
     'reson1'                           => '1. Carries the gospel message to the refugees it serves.',
     'reson2'                           => '2. Makes known God’s character by sharing a message of hope, love and light.',
     'reson3'                           => '3. Demonstrates God’s love in practical ways by helping with English lessons, food, clothing,',
@@ -939,16 +939,16 @@ return [
     'reson5'                           => '5. Works with churches to accomplish the Great Commission of Mat28.',
 
     // Live Video
-    'live_video'                       => 'Promo VIDEO',
-    'video_txt'                        => 'S.A.L.A.A.M CENTER Video',
-    'video_desc'                       => 'Videos Shots collected from S.A.L.A.A.M CENTER camps videos',
+    'live_video'                       => 'Promo Video',
+    'video_txt'                        => 'Salaam CENTER Video',
+    'video_desc'                       => 'Moments collected from the Salaam Center Summer Camp in 2019 at the Church of Philippi',
 
 
     // Members
-    'member_says'                         => 'What our Members Says',
+    'member_says'                         => 'Testimonials',
     'member_share'                        => 'Share Opinion',
-    'member_title1'                       => 'S.A.L.A.A.M. is the Best',
-    'member_txt1'                         => 'I visited other sites but I cant find enjoying like S.A.L.A.A.M site, please go on and continue to develop ideas and features.',
+    'member_title1'                       => 'Salaam. is the Best',
+    'member_txt1'                         => 'I visited other sites but I cant find enjoying like Salaam site, please go on and continue to develop ideas and features.',
     'member_who1'                         => 'David Joe',
     'member_job1'                         => 'CEO, Olash Company',
     'member_title2'                       => '100% Recommended',
@@ -967,12 +967,12 @@ return [
     // EVENT
     'event'                               => 'Upcoming Event',
     'event_desc'                          => 'News & Conferences',
-    'event1'                              => 'S.A.L.A.A.M CENTER hosting a Christmas Party for our Muslim refugee friends!',
-    'event2'                              => 'S.A.L.A.A.M CENTER hosting a Christmas Party for our Muslim refugee friends!',
-    'event3'                              => 'S.A.L.A.A.M CENTER hosting a Christmas Party for our Muslim refugee friends!',
-    'event4'                              => 'S.A.L.A.A.M CENTER hosting a Christmas Party for our Muslim refugee friends!',
-    'event5'                              => 'S.A.L.A.A.M CENTER hosting a Christmas Party for our Muslim refugee friends!',
-    'event6'                              => 'S.A.L.A.A.M CENTER hosting a Christmas Party for our Muslim refugee friends!',
+    'event1'                              => 'Salaam CENTER hosting a Christmas Party for our Muslim refugee friends!',
+    'event2'                              => 'Salaam CENTER hosting a Christmas Party for our Muslim refugee friends!',
+    'event3'                              => 'Salaam CENTER hosting a Christmas Party for our Muslim refugee friends!',
+    'event4'                              => 'Salaam CENTER hosting a Christmas Party for our Muslim refugee friends!',
+    'event5'                              => 'Salaam CENTER hosting a Christmas Party for our Muslim refugee friends!',
+    'event6'                              => 'Salaam CENTER hosting a Christmas Party for our Muslim refugee friends!',
 
     // Connect area
     'connect_area'                        => 'Not A Member? Connect With Us..',
@@ -980,8 +980,8 @@ return [
 
     // Footer
     'about'                               => 'About Us',
-    'about_desc1'                         => 'S.A.L.A.A.M CENTER is dedicated to serve fellow Middle Eastern refugees, immigrants, and asylum seekers who have made the great city of Baltimore their new home.',
-    'about_desc2'                         => 'S.A.L.A.A.M CENTER We want to build long-term relationships with the refugee families and be available to them.',
+    'about_desc1'                         => 'Salaam CENTER is dedicated to serve fellow Middle Eastern refugees, immigrants, and asylum seekers who have made the great city of Baltimore their new home.',
+    'about_desc2'                         => 'Salaam CENTER We want to build long-term relationships with the refugee families and be available to them.',
     'read_more'                           => 'Read More',
     'contact'                             => 'Contact US',
     'terms'                               => 'Terms',
@@ -1012,11 +1012,11 @@ return [
     // about us
     'about_title'                         =>'Training, equipping, and serving Christian health care workers to reach others',
     'about_desc'                          =>'Reach unreached people in Egypt, the Middle East, and Africa, and encourage others to do the same',
-    'about_desc_right'                    =>'An Egyptian, Christian Medical, a multi-specialty group united to proclaim Jesus Christ S.A.L.A.A.M CENTER was started in 2007, by a group of committed Christian Egyptian health care workers.',
+    'about_desc_right'                    =>'An Egyptian, Christian Medical, a multi-specialty group united to proclaim Jesus Christ Salaam CENTER was started in 2007, by a group of committed Christian Egyptian health care workers.',
     'about_desc_left'                     =>'Annual Conference for health care l workers from Egypt and the Arab region which encourages attendees to shine as light in the darkness',
     'about_desc_left2'                    =>'Scientific training courses in Christian hospitals by physicians distinguished scientifically and spiritually, both Egyptian and foreigners from the UK and USA',
-    'about_video_title'                   =>'S.A.L.A.A.M',
-    'about_video_desc'                    =>'you can support S.A.L.A.A.M CENTER in the following ways: PRAY & ACT',
+    'about_video_title'                   =>'Salaam',
+    'about_video_desc'                    =>'you can support Salaam CENTER in the following ways: PRAY & ACT',
     'about_pastor_txt_back'               =>'Everyone can partner with us in prayer!',
     'about_pastor_txt_title'              =>'PRAY',
     'view_all'                            =>'VIEW ALL',

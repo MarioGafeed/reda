@@ -61,7 +61,7 @@
                         </li>
                     </ul>
                 </div>
-                <div class="col-lg-6 col-md-12 text-center text-lg-right"> Mario © S.A.L.A.A.M CENTER 2021 Allright Reserved</div>
+                <div class="col-lg-6 col-md-12 text-center text-lg-right"> Mario © Salaam CENTER 2021 Allright Reserved</div>
             </div>
         </div>
         <a href="#" class="btn scroll-btn f-right flex-center z-25 opacity-0"> <i class="fas fa-arrow-up"></i>

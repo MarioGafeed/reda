@@ -2,10 +2,10 @@
 <html lang="{{ GetLanguage() }}" dir="{{ GetDirection() }}" >
 
 <head>
-    <title>S.A.L.A.M CENTER</title>
+    <title>Salaam CENTER</title>
     <meta charset="utf-8">
     <meta name="title" content="salam center">
-    <meta name="description" content="salam center Baltimore S.A.L.A.A.M CENTER is dedicated to serve fellow Middle Eastern refugees, immigrants, and asylum seekers who have made the great city of Baltimore their new home">
+    <meta name="description" content="salam center Baltimore Salaam CENTER is dedicated to serve fellow Middle Eastern refugees, immigrants, and asylum seekers who have made the great city of Baltimore their new home">
     <meta name="keywords" content="سلام سنتر , بالتيمور , refugee , families ,">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Calling Favicon -->

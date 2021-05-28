@@ -12,7 +12,7 @@
     CSS INDEX
     ===================
 
-    1. Color black 
+    1. Color black
     2. Color light white
     3. Color yellow
     4. Bg black
@@ -26,7 +26,7 @@
 
 
 /* ....................................
-1. Color black 
+1. Color black
 .......................................*/
 
 .black,
@@ -98,6 +98,7 @@ a:hover,
 .social-icons.white li a:hover,
 .loader {
     color: #d6c590;
+;
 }
 
 
