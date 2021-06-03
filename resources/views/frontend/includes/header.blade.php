@@ -40,13 +40,6 @@
                         </ul>
                     </li>
                     <li class="mg-nav-item mg-nav-item-has-children nav-link">
-                        <a href="#">{{ trans('main.services') }}</a>
-                        <ul class="sub-menu">
-                            <li class="mg-nav-item nav-link"> <a href="#" onclick='alert("In new version")'>{{ trans('main.books') }}</a></li>
-                            <li class="mg-nav-item nav-link"> <a href="#" onclick='alert("In new version")'>{{ trans('main.book_room') }}</a></li>
-                        </ul>
-                    </li>
-                    <li class="mg-nav-item mg-nav-item-has-children nav-link">
                         <a href="{{ url("/posts/index") }}">{{ trans('main.blogs') }}</a>
                         <ul class="sub-menu">
                           @foreach($pcats as $pcat)
@@ -59,6 +52,12 @@
                                </a></li>
                           @endforeach
                         </ul>
+                    </li>
+                    <li class="mg-nav-item mg-nav-item-has-children nav-link">
+                        <a href="/contact">{{ trans('main.contact') }}</a>
+                    </li>
+                    <li class="mg-nav-item mg-nav-item-has-children nav-link">
+                        <a href="/about">{{ trans('main.about') }}</a>                        
                     </li>
                   <!-- <h3 style="float:  {{ GetLanguage() == 'en' ? 'left' : 'right' }}  " class="form-title font-green">{{ trans('main.login') }}</h3> -->
 
@@ -124,12 +123,6 @@
                     @endif
                   </a></li>
                   @endforeach
-                </ul>
-              </li>
-              <li> <a href="#" class="has-sub"  >{{ trans('main.services') }}</a>
-                <ul class="submenu">
-                  <li class="mg-nav-item nav-link" > <a href="#" onclick='alert("معذرة تحت الإنشاء")' >{{ trans('main.books') }}</a></li>
-                  <li class="mg-nav-item nav-link" > <a href="#" onclick='alert("معذرة تحت الإنشاء")'>{{ trans('main.book_room') }}</a></li>
                 </ul>
               </li>
               <li> <a href="{{ url("/posts/index") }}" class="has-sub"  >{{ trans('main.blogs') }}</a>

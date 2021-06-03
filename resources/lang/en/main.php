@@ -857,44 +857,44 @@ return [
 
 
     // Banner Start
-    'txt1'                         => 'Throughout the year responds',
+    'txt1'                         => '',
     'txt2'                         => 'Meeting Tangible Needs',
-    'txt3'                         => 'to physical needs of the refugees',
-    'txt4'                         => 'This varies from providing a food basket of staples and treats to each of the families at Christmas to helping meet specific needs of different families throughout the year for food, hygiene items, clothing, baby items, etc.',
+    'txt3'                         => '',
+    'txt4'                         => 'Throughout the year, the Salaam Center responds to the physical needs of the refugees. This varies from providing a food basket of staples and treats to each of the families to helping meet specific needs of different families throughout the year such as food, hygiene items, clothing, baby items, etc.',
 
     'banner_button1'               => 'CONNECT WITH US',
 
-    'txt11'                         => 'Children are the owners of the',
-    'txt22'                         => 'future',
-    'txt33'                         => 'and what we invest now in them',
-    'txt44'                         => 'As we plant love and peace, we believe that God will use everything we invest in their lives as they grow up.',
+    'txt11'                         => '',
+    'txt22'                         => 'Strengthening Families',
+    'txt33'                         => '',
+    'txt44'                         => 'We offer activities for children and their families throughout the year to help with cultural adjustments and strengthen family relationships.  We want to build long-term relationships with the refugee families and be available to them.',
 
 
-    'txt111'                         => 'Volunteers are at the Center daily',
-    'txt222'                         => 'to help',
-    'txt333'                         => 'with questions,',
-    'txt444'                         => 'mail, making appointments, etc. Sometimes a friendly face and a listening ear are the most important help.',
+    'txt111'                         => '',
+    'txt222'                         => 'Day to Day Help',
+    'txt333'                         => '',
+    'txt444'                         => 'The Salaam Center is open to receive refugees as walk-ins or for appointments on weekdays from 8:00-5:00. The director and volunteers assist the refugees with a wide range of social services including help with paperwork, making appointments, applying to rent housing, applying for jobs, and addressing various other needs.',
 
 
-    'txt1111'                         => 'We provide',
-    'txt2222'                         => 'Bookbags & School Supplies',
-    'txt3333'                         => 'to help get the kids ready for the new school year',
-    'txt4444'                         => 'Many of our families vary in the value they place on education.',
+    'txt1111'                         => '',
+    'txt2222'                         => 'School Supplies',
+    'txt3333'                         => '',
+    'txt4444'                         => 'We provide bookbags and school supplies to help get the children ready for the new school year. Many of our families vary in the value they place on education.',
 
-    'txt11111'                         => 'Christmas Party',
-    'txt22222'                         => 'Most of our families',
-    'txt33333'                         => 'look forward',
-    'txt44444'                         => 'We have the opportunity to share the Christmas story, music, food and friendships.',
+    'txt11111'                         => '',
+    'txt22222'                         => 'Christmas Party',
+    'txt33333'                         => '',
+    'txt44444'                         => 'Many of our families look forward to our annual look forward to our annual Christmas Party. We have the opportunity to share the story of Jesus, music, food and friendships.',
 
-    'txt111111'                         => 'We open to receive refugees',
-    'txt222222'                         => 'Day-to-Day Help',
-    'txt333333'                         => 'for appointments on weekdays from 8-5:00',
-    'txt444444'                         => 'Director and volunteers assist the refugees with a wide range of issues, including help with paperwork (social services, MVA, school forms, etc.), making appointments, applying to rent housing or applying for jobs, and addressing various other needs.',
+    'txt111111'                         => '',
+    'txt222222'                         => 'Daily Volunteers',
+    'txt333333'                         => '',
+    'txt444444'                         => 'We have volunteers are at the center daily to help with questions, mail, making appointments, etc. Sometimes a friendly face and a listening ear are the most important help.',
 
-    'txt1111111'                         => 'We offers English classes to help the refugees',
-    'txt2222222'                         => 'English/Citizenship Classes',
-    'txt3333333'                         => 'strengthen their communication skills.',
-    'txt4444444'                         => 'Citizenship classes are available for the refugees who are reaching their eligibility date to apply for citizenship.  Classes used to all be in-person, but many are now available with teachers online.',
+    'txt1111111'                         => '',
+    'txt2222222'                         => 'Our Classes',
+    'txt3333333'                         => '',
+    'txt4444444'                         => 'The Salaam Center offers English classes of different levels to help the refugees strengthen their communication skills. Citizenship classes are available for the refugees who are reaching their eligibility date to apply for citizenship.',
 
 
 
@@ -903,44 +903,44 @@ return [
     'history'                          => 'During the past 5 years,
                                            the Lord honored us with:',
     'his_desc1'                        => 'Began operating in 2016 in its small storefront in Highlandtown, an east Baltimore neighborhood.  At the time, the Baltimore Resettlement Center was directly across the street, so it was easy for new refugees to find us.  The Arabic writing in our window was a welcome sight to many of them.',
-    'his_year1'                        => '2006',
-    'his_bold1'                        => 'Operating',
+    'his_year1'                        => 'Opened in',
+    'his_bold1'                        => '2016',
 
     'his_desc2'                        => 'Many of the Muslim and Arabic-speaking refugees that came to Baltimore were settled in Moravia, a neighborhood just northeast of the Center, and Dundalk, a neighborhood nearby in southeast Baltimore.  Even though the Baltimore Resettlement Center moved in 2019, Highlandtown continues to be a good location for the Center.',
-    'his_year2'                        => '2006',
-    'his_bold2'                        => 'Operating',
+    'his_year2'                        => 'Opened in',
+    'his_bold2'                        => '2016',
 
     'his_desc3'                        => 'The refugee community served by the Salaam Center has changed somewhat since we began.  In 2016, many of the refugees who found their way to us were originally from Syria.  Since that time, we have had the opportunity to serve people from a wider range of Middle Eastern and African countries.',
-    'his_year3'                        => '2006',
-    'his_bold3'                        => 'Operating',
+    'his_year3'                        => 'Opened in',
+    'his_bold3'                        => '2016',
 
     'his_desc4'                        => 'Many of the people we serve had been displaced from their countries prior to coming to the U.S. Quite a few of them spent time in refugee camps in the Middle East or Africa, and some of the children were born in refugee camps.',
-    'his_year4'                        => '2006',
-    'his_bold4'                        => 'Operating',
+    'his_year4'                        => 'Opened in',
+    'his_bold4'                        => '2016',
 
     // Audio
     'audio_title'                      => 'Eastern music',
     'audio_desc'                       => 'Masterpieces of original art',
 
     // Work Gallery
-    'work1'                            => 'Salaam CENTER vision',
+    'work1'                            => 'Salaam Center vision',
     'work_desc'                        => '“works with churches to make God character known to the Arabic-speaking, Muslim population in Baltimore by building relationships, serving the families and fostering community among them.” ',
 
     // About me
-    'exper_age'                        => '15',
+    'exper_age'                        => '5',
     'exper_txt'                        => 'Years of Experience',
-    'me_name'                          => 'Salaam CENTER',
+    'me_name'                          => 'Salaam Center',
     'me_desc'                          => 'The Salaam Center is a refugee service center that works with local churches to declare the light of God’s love for all. It provides practical assistance to refugees by helping them adjust to their new lives in America. It seeks to make God’s character known to Arabic speakers by building relationships, and serving and fostering community among them.',
-    'me_why'                           => 'Why Choose Salaam CENTER?',
-    'reson1'                           => '1. Carries the gospel message to the refugees it serves.',
-    'reson2'                           => '2. Makes known God’s character by sharing a message of hope, love and light.',
-    'reson3'                           => '3. Demonstrates God’s love in practical ways by helping with English lessons, food, clothing,',
-    'reson4'                           => '4. Invests in children’s lives in order to create a righteous generation that loves God and others.',
-    'reson5'                           => '5. Works with churches to accomplish the Great Commission of Mat28.',
+    'me_why'                           => 'Why Choose Salaam Center?',
+    'reson1'                           => 'Carries the gospel message to the refugees it serves.',
+    'reson2'                           => 'Makes known God’s character by sharing a message of hope, love and light.',
+    'reson3'                           => 'Demonstrates God’s love in practical ways by helping with English lessons, food, clothing,',
+    'reson4'                           => 'Invests in children’s lives in order to create a righteous generation that loves God and others.',
+    'reson5'                           => 'Works with churches to accomplish the Great Commission of Mat28.',
 
     // Live Video
     'live_video'                       => 'Promo Video',
-    'video_txt'                        => 'Salaam CENTER Video',
+    'video_txt'                        => 'Salaam Center Video',
     'video_desc'                       => 'Moments collected from the Salaam Center Summer Camp in 2019 at the Church of Philippi',
 
 
@@ -967,12 +967,12 @@ return [
     // EVENT
     'event'                               => 'Upcoming Event',
     'event_desc'                          => 'News & Conferences',
-    'event1'                              => 'Salaam CENTER hosting a Christmas Party for our Muslim refugee friends!',
-    'event2'                              => 'Salaam CENTER hosting a Christmas Party for our Muslim refugee friends!',
-    'event3'                              => 'Salaam CENTER hosting a Christmas Party for our Muslim refugee friends!',
-    'event4'                              => 'Salaam CENTER hosting a Christmas Party for our Muslim refugee friends!',
-    'event5'                              => 'Salaam CENTER hosting a Christmas Party for our Muslim refugee friends!',
-    'event6'                              => 'Salaam CENTER hosting a Christmas Party for our Muslim refugee friends!',
+    'event1'                              => 'Salaam Center hosting a Christmas Party for our Muslim refugee friends!',
+    'event2'                              => 'Salaam Center hosting a Christmas Party for our Muslim refugee friends!',
+    'event3'                              => 'Salaam Center hosting a Christmas Party for our Muslim refugee friends!',
+    'event4'                              => 'Salaam Center hosting a Christmas Party for our Muslim refugee friends!',
+    'event5'                              => 'Salaam Center hosting a Christmas Party for our Muslim refugee friends!',
+    'event6'                              => 'Salaam Center hosting a Christmas Party for our Muslim refugee friends!',
 
     // Connect area
     'connect_area'                        => 'Not A Member? Connect With Us..',
@@ -980,8 +980,8 @@ return [
 
     // Footer
     'about'                               => 'About Us',
-    'about_desc1'                         => 'Salaam CENTER is dedicated to serve fellow Middle Eastern refugees, immigrants, and asylum seekers who have made the great city of Baltimore their new home.',
-    'about_desc2'                         => 'Salaam CENTER We want to build long-term relationships with the refugee families and be available to them.',
+    'about_desc1'                         => 'Salaam Center is dedicated to serve fellow Middle Eastern refugees, immigrants, and asylum seekers who have made the great city of Baltimore their new home.',
+    'about_desc2'                         => 'Salaam Center We want to build long-term relationships with the refugee families and be available to them.',
     'read_more'                           => 'Read More',
     'contact'                             => 'Contact US',
     'terms'                               => 'Terms',
@@ -1012,11 +1012,11 @@ return [
     // about us
     'about_title'                         =>'Training, equipping, and serving Christian health care workers to reach others',
     'about_desc'                          =>'Reach unreached people in Egypt, the Middle East, and Africa, and encourage others to do the same',
-    'about_desc_right'                    =>'An Egyptian, Christian Medical, a multi-specialty group united to proclaim Jesus Christ Salaam CENTER was started in 2007, by a group of committed Christian Egyptian health care workers.',
+    'about_desc_right'                    =>'An Egyptian, Christian Medical, a multi-specialty group united to proclaim Jesus Christ Salaam Center was started in 2007, by a group of committed Christian Egyptian health care workers.',
     'about_desc_left'                     =>'Annual Conference for health care l workers from Egypt and the Arab region which encourages attendees to shine as light in the darkness',
     'about_desc_left2'                    =>'Scientific training courses in Christian hospitals by physicians distinguished scientifically and spiritually, both Egyptian and foreigners from the UK and USA',
     'about_video_title'                   =>'Salaam',
-    'about_video_desc'                    =>'you can support Salaam CENTER in the following ways: PRAY & ACT',
+    'about_video_desc'                    =>'you can support Salaam Center in the following ways: PRAY & ACT',
     'about_pastor_txt_back'               =>'Everyone can partner with us in prayer!',
     'about_pastor_txt_title'              =>'PRAY',
     'view_all'                            =>'VIEW ALL',
