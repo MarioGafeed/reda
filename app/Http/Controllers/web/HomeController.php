@@ -30,7 +30,12 @@ class HomeController extends Controller
 
     public function donate()
     {
-      return view('frontend.donate');
+      $pcats = Pcategory::select('id', 'title')->get();
+      $vcats = Vcategory::select('id', 'title')->get();
+      return view('frontend.donate', [
+        'pcats' => $pcats,
+        'vcats' => $vcats
+      ]);
     }
 
     public function contact()

@@ -57,7 +57,7 @@
                         <a href="/contact">{{ trans('main.contact') }}</a>
                     </li>
                     <li class="mg-nav-item mg-nav-item-has-children nav-link">
-                        <a href="/about">{{ trans('main.about') }}</a>                        
+                        <a href="/about">{{ trans('main.about') }}</a>
                     </li>
                   <!-- <h3 style="float:  {{ GetLanguage() == 'en' ? 'left' : 'right' }}  " class="form-title font-green">{{ trans('main.login') }}</h3> -->
 
@@ -82,7 +82,7 @@
             </div>
         </div>
     </div>
-    <a href="#" onclick='alert("In new version")' class="db-block-{{GetDirection()}} ml-35 ml-xs-25">
+    <a href="{{ url('/donate') }}"  class="db-block-{{GetDirection()}} ml-35 ml-xs-25">
         <div class="transform-center">{{ trans('main.donate') }}</div>
     </a>
     <a href="#" class="menu-bars db-none right-menu ml-35 ml-xs-25">
@@ -106,7 +106,7 @@
               </a>
             </div>
           </div>
-          <a href="#" onclick='alert("Sorry in new Version")' class="btn btn-black mt-30 mb-35 mb-xs-20">{{ trans('main.donate') }}</a>
+          <a href="{{ url('donate') }}"  class="btn btn-black mt-30 mb-35 mb-xs-20">{{ trans('main.donate') }}</a>
           <div class="fx-menu-content mb-15" >
             <ul class="fx-menu-links rbt-slab txt-{{GetDirection()}}">
               <!-- <li> <a href="#" >{{ trans('main.home') }}</a>

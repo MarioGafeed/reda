@@ -372,7 +372,7 @@
                                   <li>Salaam C.E.N.T.E.R</li>
                                   <li>Baltimore</li>
                                 </ul>
-                                <h4 class="mb-10"><a href="#" onclick='Alert("In new version")' class="fs-25 f-700 white hover-white">{{trans('main.donate')}}</a></h4>
+                                <h4 class="mb-10"><a href="{{ url('/donate') }}" class="fs-25 f-700 white hover-white">{{trans('main.donate')}}</a></h4>
                                 <p class=" white">Share your love by donating.</p>
                             </div>
                         </div>

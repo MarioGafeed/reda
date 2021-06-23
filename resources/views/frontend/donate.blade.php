@@ -39,13 +39,13 @@
                             <ul>
                                 <li><i class="fas yellow fa-check-circle"></i><span>150+</span> Online Payment</li>
                                 <li><i class="fas yellow fa-check-circle"></i><span>8+</span> Offline Payment</li>
-                                <li><i class="fas yellow fa-check-circle"></i>Lorem ipsum dolor sit</li>
-                                <li><i class="fas yellow fa-check-circle"></i>Ut enim ad minim veni</li>
+                                <li><i class="fas yellow fa-check-circle"></i>little words</li>
+                                <li><i class="fas yellow fa-check-circle"></i>more words</li>
                             </ul>
                         </div>
                         <div class="price-rate">
                             <h3 class="mt-20 f-700 fs-43"><sup>$</sup>500<sub>/ Day</sub></h3>
-                        </div> <a href="donation-detail.html" class="btn btn-black mt-30 mb-35 mb-xs-20">DONATE NOW</a>
+                        </div> <a href="" onclick='alert("Plz Call +971 543 042 608")' class="btn btn-black mt-30 mb-35 mb-xs-20">DONATE NOW</a>
                     </div>
                 </div>
             </div>
@@ -61,13 +61,13 @@
                             <ul>
                                 <li><i class="fas yellow fa-check-circle"></i><span>150+</span> Online Payment</li>
                                 <li><i class="fas yellow fa-check-circle"></i><span>8+</span> Offline Payment</li>
-                                <li><i class="fas yellow fa-check-circle"></i>Lorem ipsum dolor sit</li>
-                                <li><i class="fas yellow fa-check-circle"></i>Ut enim ad minim veni</li>
+                                <li><i class="fas yellow fa-check-circle"></i>little words</li>
+                                <li><i class="fas yellow fa-check-circle"></i>more words</li>
                             </ul>
                         </div>
                         <div class="price-rate">
                             <h3 class="mt-20 f-700 fs-43"><sup>$</sup>349<sub>/ Day</sub></h3>
-                        </div> <a href="donation-detail.html" class="btn btn-black mt-30 mb-35 mb-xs-20">DONATE NOW</a>
+                        </div> <a href="" onclick='alert("Plz Call +971 543 042 608")' class="btn btn-black mt-30 mb-35 mb-xs-20">DONATE NOW</a>
                     </div>
                 </div>
             </div>
@@ -83,13 +83,13 @@
                             <ul>
                                 <li><i class="fas yellow fa-check-circle"></i><span>150+</span> Online Payment</li>
                                 <li><i class="fas yellow fa-check-circle"></i><span>8+</span> Offline Payment</li>
-                                <li><i class="fas yellow fa-check-circle"></i>Lorem ipsum dolor sit</li>
-                                <li><i class="fas yellow fa-check-circle"></i>Ut enim ad minim veni</li>
+                                <li><i class="fas yellow fa-check-circle"></i>little words</li>
+                                <li><i class="fas yellow fa-check-circle"></i>more words</li>
                             </ul>
                         </div>
                         <div class="price-rate">
                             <h3 class="mt-20 f-700 fs-43"><sup>$</sup>400<sub>/ Day</sub></h3>
-                        </div> <a href="donation-detail.html" class="btn btn-black mt-30 mb-35 mb-xs-20">DONATE NOW</a>
+                        </div> <a href="" onclick='alert("Plz Call +971 543 042 608")' class="btn btn-black mt-30 mb-35 mb-xs-20">DONATE NOW</a>
                     </div>
                 </div>
             </div>
@@ -105,13 +105,13 @@
                             <ul>
                                 <li><i class="fas yellow fa-check-circle"></i><span>150+</span> Online Payment</li>
                                 <li><i class="fas yellow fa-check-circle"></i><span>8+</span> Offline Payment</li>
-                                <li><i class="fas yellow fa-check-circle"></i>Lorem ipsum dolor sit</li>
-                                <li><i class="fas yellow fa-check-circle"></i>Ut enim ad minim veni</li>
+                                <li><i class="fas yellow fa-check-circle"></i>little words</li>
+                                <li><i class="fas yellow fa-check-circle"></i>more words</li>
                             </ul>
                         </div>
                         <div class="price-rate">
                             <h3 class="mt-20 f-700 fs-43"><sup>$</sup>680<sub>/ Day</sub></h3>
-                        </div> <a href="donation-detail.html" class="btn btn-black mt-30 mb-35 mb-xs-20">DONATE NOW</a>
+                        </div> <a href="" onclick='alert("Plz Call +971 543 042 608")' class="btn btn-black mt-30 mb-35 mb-xs-20">DONATE NOW</a>
                     </div>
                 </div>
             </div>
@@ -127,13 +127,13 @@
                             <ul>
                                 <li><i class="fas yellow fa-check-circle"></i><span>150+</span> Online Payment</li>
                                 <li><i class="fas yellow fa-check-circle"></i><span>8+</span> Offline Payment</li>
-                                <li><i class="fas yellow fa-check-circle"></i>Lorem ipsum dolor sit</li>
-                                <li><i class="fas yellow fa-check-circle"></i>Ut enim ad minim veni</li>
+                                <li><i class="fas yellow fa-check-circle"></i>little words</li>
+                                <li><i class="fas yellow fa-check-circle"></i>more words</li>
                             </ul>
                         </div>
                         <div class="price-rate">
                             <h3 class="mt-20 f-700 fs-43"><sup>$</sup>500<sub>/ Day</sub></h3>
-                        </div> <a href="donation-detail.html" class="btn btn-black mt-30 mb-35 mb-xs-20">DONATE NOW</a>
+                        </div> <a href="" onclick='alert("Plz Call +971 543 042 608")' class="btn btn-black mt-30 mb-35 mb-xs-20">DONATE NOW</a>
                     </div>
                 </div>
             </div>
@@ -149,13 +149,13 @@
                             <ul>
                                 <li><i class="fas yellow fa-check-circle"></i><span>150+</span> Online Payment</li>
                                 <li><i class="fas yellow fa-check-circle"></i><span>8+</span> Offline Payment</li>
-                                <li><i class="fas yellow fa-check-circle"></i>Lorem ipsum dolor sit</li>
-                                <li><i class="fas yellow fa-check-circle"></i>Ut enim ad minim veni</li>
+                                <li><i class="fas yellow fa-check-circle"></i>little words</li>
+                                <li><i class="fas yellow fa-check-circle"></i>more words</li>
                             </ul>
                         </div>
                         <div class="price-rate">
                             <h3 class="mt-20 f-700 fs-43"><sup>$</sup>450<sub>/ Day</sub></h3>
-                        </div> <a href="donation-detail.html" class="btn btn-black mt-30 mb-35 mb-xs-20">DONATE NOW</a>
+                        </div> <a href="" onclick='alert("Plz Call +971 543 042 608")' class="btn btn-black mt-30 mb-35 mb-xs-20">DONATE NOW</a>
                     </div>
                 </div>
             </div>
